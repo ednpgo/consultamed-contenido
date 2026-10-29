@@ -3632,6 +3632,696 @@
         "frequency" : "dosis inicial; después 50 mg cada 6 horas",
         "route" : "intravenosa"
       }
+    },
+    {
+      "adult" : "Conjuntivitis alérgica: 0.1 % 1 gota cada 12 h o 0.2 % 1 gota cada 24 h.",
+      "adverse" : "Ardor transitorio, cefalea.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "alergia",
+      "id" : "olopatadina_oft",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "conjuntivitis alergica",
+        "antihistaminico"
+      ],
+      "name" : "Olopatadina oftálmica",
+      "pediatric" : "≥ 3 años: igual que en adultos.",
+      "pregnancy" : "Uso tópico aceptable.",
+      "presentations" : [
+        "Solución oftálmica 0.1 %",
+        "Solución oftálmica 0.2 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 gota en cada ojo",
+        "duration" : "por 2 semanas",
+        "frequency" : "cada 12 horas",
+        "route" : "oftálmica"
+      }
+    },
+    {
+      "adult" : "Corticoide de baja potencia: aplicar cada 12 h por 1–2 semanas; apto para cara y pliegues.",
+      "adverse" : "Atrofia con uso prolongado.",
+      "contraindications" : "Infecciones cutáneas no tratadas.",
+      "group" : "dermatologia",
+      "id" : "hidrocortisona_crema",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "dermatitis",
+        "eccema",
+        "corticoide topico"
+      ],
+      "name" : "Hidrocortisona tópica",
+      "pediatric" : "Igual que en adultos, por periodos cortos.",
+      "pregnancy" : "Uso tópico aceptable.",
+      "presentations" : [
+        "Crema 1 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 7 días",
+        "frequency" : "cada 12 horas",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Dermatitis atópica: 0.1 % cada 12 h hasta mejorar; mantenimiento 2 veces por semana en zonas recurrentes.",
+      "adverse" : "Ardor al inicio; evitar exposición solar intensa.",
+      "contraindications" : "Infección cutánea activa, inmunosupresión.",
+      "group" : "dermatologia",
+      "id" : "tacrolimus_top",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "dermatitis atopica",
+        "inhibidor de calcineurina"
+      ],
+      "name" : "Tacrolimus tópico",
+      "pediatric" : "2–15 años: 0.03 % cada 12 h.",
+      "pregnancy" : "Datos limitados.",
+      "presentations" : [
+        "Ungüento 0.03 %",
+        "Ungüento 0.1 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 2 semanas",
+        "frequency" : "cada 12 horas",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Aplicar en todo el cuerpo 2 veces al día y dentro de los 3 minutos después del baño.",
+      "adverse" : "Foliculitis ocasional.",
+      "contraindications" : "Ninguna relevante.",
+      "group" : "dermatologia",
+      "id" : "emoliente",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "dermatitis atopica",
+        "piel seca",
+        "xerosis"
+      ],
+      "name" : "Emoliente (crema o vaselina)",
+      "pediatric" : "Igual que en adultos.",
+      "pregnancy" : "Seguro.",
+      "presentations" : [
+        "Crema emoliente",
+        "Vaselina sólida"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar abundante",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas y después del baño",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Acné: aplicar cada noche sobre la zona afectada; combinar con retinoide tópico y con cualquier antibiótico para evitar resistencia.",
+      "adverse" : "Irritación, resequedad; decolora ropa y cabello.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "dermatologia",
+      "id" : "peroxido_benzoilo",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "acne"
+      ],
+      "name" : "Peróxido de benzoilo",
+      "pregnancy" : "Se considera seguro.",
+      "presentations" : [
+        "Gel 2.5 %",
+        "Gel 5 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 12 semanas",
+        "frequency" : "cada noche",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Acné: aplicar cada noche en toda la zona afectada; la mejoría se nota a las 8–12 semanas.",
+      "adverse" : "Irritación y resequedad al inicio, fotosensibilidad.",
+      "contraindications" : "Embarazo.",
+      "group" : "dermatologia",
+      "id" : "adapaleno",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "acne",
+        "retinoide"
+      ],
+      "name" : "Adapaleno",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Gel 0.1 %",
+        "Gel 0.3 %",
+        "Gel adapaleno 0.1 % \/ peróxido de benzoilo 2.5 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 12 semanas",
+        "frequency" : "cada noche",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Artrosis de rodilla o mano: 4 g en rodilla o 2 g en mano cada 6 h (máximo 32 g\/día). Primera línea en artrosis de rodilla (ACR 2019).",
+      "adverse" : "Irritación local; mucho menor riesgo sistémico que por vía oral.",
+      "contraindications" : "Piel lesionada, alergia a AINE.",
+      "group" : "analgesicos",
+      "id" : "diclofenaco_gel",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "artrosis",
+        "aine",
+        "dolor"
+      ],
+      "name" : "Diclofenaco tópico",
+      "pregnancy" : "Evitar en el tercer trimestre.",
+      "presentations" : [
+        "Gel 1 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "4 g sobre la rodilla",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 6 horas",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "30 mg cada 24 h por 1 semana y después 60 mg cada 24 h (depresión, ansiedad generalizada, dolor neuropático diabético, artrosis).",
+      "adverse" : "Náusea, boca seca, somnolencia, aumento de la PA.",
+      "contraindications" : "Hepatopatía, alcoholismo, uso con IMAO, glaucoma no controlado.",
+      "group" : "neuro",
+      "id" : "duloxetina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "irsn",
+        "ansiedad",
+        "dolor neuropatico"
+      ],
+      "name" : "Duloxetina",
+      "pregnancy" : "Usar si el beneficio lo justifica.",
+      "presentations" : [
+        "Cápsulas 30 mg",
+        "Cápsulas 60 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Evitar si TFG < 30.",
+      "sig" : {
+        "dose" : "1 cápsula de 30 mg",
+        "duration" : "1 semana y después 60 mg diarios",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "75 mg cada 24 h; aumentar hasta 225 mg\/día según respuesta.",
+      "adverse" : "Náusea, aumento de la PA, síndrome de discontinuación (retirar gradualmente).",
+      "contraindications" : "Uso con IMAO, HTA no controlada.",
+      "group" : "neuro",
+      "id" : "venlafaxina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "irsn",
+        "depresion",
+        "ansiedad"
+      ],
+      "name" : "Venlafaxina",
+      "pregnancy" : "Usar si el beneficio lo justifica.",
+      "presentations" : [
+        "Cápsulas de liberación prolongada 75 mg",
+        "Cápsulas de liberación prolongada 150 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Reducir 25–50 % en ERC.",
+      "sig" : {
+        "dose" : "1 cápsula de 75 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas con el desayuno",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Días 1–3: 0.5 mg cada 24 h; días 4–7: 0.5 mg cada 12 h; después 1 mg cada 12 h por 12 semanas. Fijar fecha para dejar de fumar en la semana 2.",
+      "adverse" : "Náusea, sueños vívidos; vigilar cambios de ánimo.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "neuro",
+      "id" : "vareniclina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "tabaquismo",
+        "dejar de fumar"
+      ],
+      "name" : "Vareniclina",
+      "pregnancy" : "Evitar; preferir intervención conductual.",
+      "presentations" : [
+        "Tabletas 0.5 mg",
+        "Tabletas 1 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "TFG < 30: máximo 0.5 mg cada 12 h.",
+      "sig" : {
+        "dose" : "0.5 mg",
+        "duration" : "por 12 semanas",
+        "frequency" : "cada 24 horas por 3 días, luego cada 12 horas; desde el día 8, 1 mg cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "> 10 cigarrillos\/día: 21 mg\/24 h por 4–6 semanas, 14 mg por 2 semanas y 7 mg por 2 semanas; ≤ 10 cigarrillos\/día: iniciar con 14 mg. Combinar con chicle o pastilla de nicotina para antojos.",
+      "adverse" : "Irritación local, insomnio (retirar por la noche).",
+      "contraindications" : "IAM o arritmia grave reciente (relativa).",
+      "group" : "neuro",
+      "id" : "parche_nicotina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "tabaquismo",
+        "reemplazo de nicotina"
+      ],
+      "name" : "Nicotina en parche",
+      "pregnancy" : "Considerar si no logra dejar de fumar con apoyo conductual.",
+      "presentations" : [
+        "Parche 21 mg\/24 h",
+        "Parche 14 mg\/24 h",
+        "Parche 7 mg\/24 h"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 parche de 21 mg",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 24 horas, rotando el sitio",
+        "route" : "transdérmica"
+      }
+    },
+    {
+      "adult" : "Tabaquismo: 150 mg cada 24 h por 3 días y después 150 mg cada 12 h por 7–12 semanas; dejar de fumar en la semana 2.",
+      "adverse" : "Insomnio, boca seca, crisis convulsivas (dosis dependiente).",
+      "contraindications" : "Epilepsia o crisis previas, trastornos de la conducta alimentaria, suspensión brusca de alcohol o benzodiacepinas, uso con IMAO.",
+      "group" : "neuro",
+      "id" : "bupropion",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "tabaquismo",
+        "depresion"
+      ],
+      "name" : "Bupropión",
+      "pregnancy" : "Usar si el beneficio lo justifica.",
+      "presentations" : [
+        "Tabletas de liberación prolongada 150 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 150 mg",
+        "duration" : "por 8 semanas",
+        "frequency" : "cada 24 horas por 3 días y después cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Geohelmintiasis: 100 mg cada 12 h por 3 días o 500 mg dosis única. Enterobiasis: 100 mg dosis única, repetir a las 2 semanas.",
+      "adverse" : "Dolor abdominal.",
+      "contraindications" : "Embarazo (primer trimestre).",
+      "group" : "antiparasitarios",
+      "id" : "mebendazol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "parasitos",
+        "oxiuros"
+      ],
+      "name" : "Mebendazol",
+      "pediatric" : "≥ 2 años: igual que en adultos.",
+      "pregnancy" : "Evitar en el primer trimestre.",
+      "presentations" : [
+        "Tabletas 100 mg",
+        "Suspensión 100 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 100 mg",
+        "duration" : "por 3 días",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Giardiasis: 2 g dosis única. Amibiasis intestinal: 2 g cada 24 h por 3 días (seguido de amebicida luminal).",
+      "adverse" : "Sabor metálico, náusea.",
+      "contraindications" : "Primer trimestre, alcohol durante y 72 h después.",
+      "group" : "antiparasitarios",
+      "id" : "tinidazol",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "giardia",
+        "amibiasis"
+      ],
+      "name" : "Tinidazol",
+      "pediatric" : "Giardiasis (> 3 años): 50 mg\/kg dosis única (máximo 2 g).",
+      "pregnancy" : "Evitar en el primer trimestre.",
+      "presentations" : [
+        "Tabletas 500 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "4 tabletas de 500 mg (2 g)",
+        "duration" : "",
+        "frequency" : "dosis única con alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Emergencia hipertensiva: 20 mg IV en 2 min; después 20–80 mg cada 10 min (máximo 300 mg) o infusión 0.5–2 mg\/min. HTA grave del embarazo (ACOG): 20 mg IV, luego 40 mg y 80 mg cada 10–20 min si no hay respuesta.",
+      "adverse" : "Hipotensión, bradicardia, broncoespasmo.",
+      "contraindications" : "Asma, bradicardia, bloqueo AV, insuficiencia cardiaca descompensada, intoxicación por cocaína.",
+      "group" : "urgencias",
+      "id" : "labetalol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "emergencia hipertensiva",
+        "preeclampsia"
+      ],
+      "name" : "Labetalol",
+      "pregnancy" : "Indicado en HTA grave del embarazo.",
+      "presentations" : [
+        "Solución inyectable 5 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "20 mg",
+        "duration" : "",
+        "frequency" : "en 2 minutos; repetir según PA",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Hipoglucemia grave sin acceso IV: 1 mg IM o SC (o 3 mg intranasal); repetir en 15 min si no hay respuesta.",
+      "adverse" : "Náusea, vómito.",
+      "contraindications" : "Feocromocitoma, insulinoma.",
+      "group" : "urgencias",
+      "id" : "glucagon",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hipoglucemia"
+      ],
+      "name" : "Glucagón",
+      "pediatric" : "< 25 kg: 0.5 mg IM o SC.",
+      "pregnancy" : "Usar en emergencia.",
+      "presentations" : [
+        "Solución inyectable 1 mg",
+        "Polvo nasal 3 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 mg",
+        "duration" : "",
+        "frequency" : "dosis única; repetir en 15 minutos si no responde",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "Hipoglucemia con alteración del estado de alerta: 25 g IV (50 mL de dextrosa al 50 %) o 100–250 mL de dextrosa al 10 %; repetir glucosa capilar en 15 min.",
+      "adverse" : "Flebitis (al 50 %), hiperglucemia.",
+      "contraindications" : "Ninguna en hipoglucemia.",
+      "group" : "urgencias",
+      "id" : "dextrosa50",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hipoglucemia",
+        "glucosa"
+      ],
+      "name" : "Dextrosa (glucosa) al 50 % y al 10 %",
+      "pediatric" : "Dextrosa al 10 %: 2–5 mL\/kg IV.",
+      "pregnancy" : "Usar en emergencia.",
+      "presentations" : [
+        "Solución inyectable 50 % 50 mL",
+        "Solución al 10 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "50 mL de dextrosa al 50 %",
+        "duration" : "",
+        "frequency" : "en 2 a 5 minutos",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Cetoacidosis\/estado hiperosmolar: infusión IV 0.1 UI\/kg\/h (con o sin bolo de 0.1 UI\/kg); no iniciar si potasio < 3.5 mEq\/L. Agregar dextrosa al 5 % cuando la glucosa sea < 250 mg\/dL.",
+      "adverse" : "Hipoglucemia, hipopotasemia.",
+      "contraindications" : "Hipopotasemia no corregida (en infusión).",
+      "group" : "metabolico",
+      "id" : "insulina_regular",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "cetoacidosis",
+        "insulina"
+      ],
+      "name" : "Insulina humana regular (acción rápida IV)",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Frasco ámpula 100 UI\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "0.1 UI\/kg\/h",
+        "duration" : "hasta resolver la cetoacidosis",
+        "frequency" : "en infusión continua",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Cetoacidosis: 1–1.5 L en la primera hora y después según estado hídrico y sodio corregido. Reposición de volumen según indicación.",
+      "adverse" : "Acidosis hiperclorémica con volúmenes altos.",
+      "contraindications" : "Sobrecarga de volumen.",
+      "group" : "urgencias",
+      "id" : "solucion_salina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "cristaloide",
+        "liquidos"
+      ],
+      "name" : "Cloruro de sodio al 0.9 %",
+      "pregnancy" : "Segura.",
+      "presentations" : [
+        "Solución inyectable 1,000 mL",
+        "Solución inyectable 500 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1,000 mL",
+        "duration" : "y después según respuesta",
+        "frequency" : "en 1 hora",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Sepsis con hipotensión o lactato ≥ 4 mmol\/L: 30 mL\/kg en las primeras 3 h. Deshidratación grave: plan C de la OMS.",
+      "adverse" : "Sobrecarga de volumen.",
+      "contraindications" : "Sobrecarga de volumen, hiperpotasemia grave.",
+      "group" : "urgencias",
+      "id" : "hartmann",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "cristaloide",
+        "sepsis",
+        "deshidratacion"
+      ],
+      "name" : "Solución Hartmann (Ringer lactato)",
+      "pregnancy" : "Segura.",
+      "presentations" : [
+        "Solución inyectable 1,000 mL",
+        "Solución inyectable 500 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "30 mL\/kg",
+        "duration" : "y revalorar respuesta",
+        "frequency" : "en 3 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Siempre diluido; nunca en bolo. Cetoacidosis: potasio 3.5–5.0 mEq\/L → 20–30 mEq por litro de solución; < 3.5 mEq\/L → reponer antes de la insulina. Vía periférica: máximo 10 mEq\/h.",
+      "adverse" : "Arritmias con administración rápida, flebitis.",
+      "contraindications" : "Hiperpotasemia, anuria.",
+      "group" : "urgencias",
+      "id" : "cloruro_potasio",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hipopotasemia",
+        "cetoacidosis"
+      ],
+      "name" : "Cloruro de potasio",
+      "pregnancy" : "Usar cuando está indicado.",
+      "presentations" : [
+        "Solución inyectable 2 mEq\/mL (ámpula 10 mL)"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Precaución en insuficiencia renal u oliguria.",
+      "sig" : {
+        "dose" : "20 mEq por litro de solución",
+        "duration" : "según potasio sérico",
+        "frequency" : "en infusión",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Choque séptico: vasopresor de primera elección (SSC 2021); iniciar 0.05–0.1 µg\/kg\/min y titular a PAM ≥ 65 mmHg. Puede iniciarse por vía periférica mientras se coloca un catéter central.",
+      "adverse" : "Isquemia periférica, arritmias, necrosis por extravasación.",
+      "contraindications" : "Hipovolemia no corregida.",
+      "group" : "urgencias",
+      "id" : "norepinefrina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "choque",
+        "vasopresor",
+        "sepsis"
+      ],
+      "name" : "Norepinefrina",
+      "pregnancy" : "Usar en emergencia.",
+      "presentations" : [
+        "Solución inyectable 4 mg\/4 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "0.05 µg\/kg\/min",
+        "duration" : "",
+        "frequency" : "en infusión, titular a PAM ≥ 65 mmHg",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "4.5 g IV cada 6 h (o cada 8 h en infusión extendida de 4 h).",
+      "adverse" : "Diarrea, citopenias, nefrotoxicidad combinada con vancomicina.",
+      "contraindications" : "Alergia a betalactámicos.",
+      "group" : "antibioticos",
+      "id" : "piperacilina_tazo",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "sepsis",
+        "nosocomial"
+      ],
+      "name" : "Piperacilina \/ tazobactam",
+      "pregnancy" : "Se considera segura.",
+      "presentations" : [
+        "Solución inyectable 4.5 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Depuración < 40 mL\/min: ajustar dosis.",
+      "sig" : {
+        "dose" : "4.5 g",
+        "duration" : "según evolución y cultivos",
+        "frequency" : "cada 6 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Náusea o vértigo agudo: 50–100 mg cada 4–6 h (máximo 400 mg\/día), por el menor tiempo posible.",
+      "adverse" : "Sedación, efectos anticolinérgicos.",
+      "contraindications" : "Glaucoma de ángulo cerrado, retención urinaria; evitar en adultos mayores.",
+      "group" : "gastro",
+      "id" : "dimenhidrinato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "vertigo",
+        "nausea",
+        "mareo"
+      ],
+      "name" : "Dimenhidrinato",
+      "pediatric" : "2–6 años: 12.5–25 mg cada 6–8 h; 6–12 años: 25–50 mg cada 6–8 h.",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas 50 mg",
+        "Solución inyectable 50 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 50 mg",
+        "duration" : "por 2 días",
+        "frequency" : "cada 8 horas en caso de vértigo o náusea",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "20 mg cada 12 h o 40 mg por la noche.",
+      "adverse" : "Cefalea; confusión en adultos mayores con ERC.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "gastro",
+      "id" : "famotidina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antih2",
+        "dispepsia",
+        "erge"
+      ],
+      "name" : "Famotidina",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas 20 mg",
+        "Tabletas 40 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "TFG < 50: reducir 50 %.",
+      "sig" : {
+        "dose" : "1 tableta de 20 mg",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
     }
   ],
   "format" : "consultamed-content",
@@ -6600,6 +7290,1635 @@
       "source" : "ESC 2024 (fibrilación auricular, AF-CARE).",
       "summary" : "Anticoagular según CHA₂DS₂-VA con anticoagulantes orales directos; control de frecuencia y de comorbilidades.",
       "title" : "Fibrilación auricular"
+    },
+    {
+      "area" : "dermatologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "L01",
+        "L02",
+        "L03",
+        "L08",
+        "A46"
+      ],
+      "id" : "piel",
+      "keywords" : [
+        "celulitis",
+        "impetigo",
+        "absceso",
+        "erisipela",
+        "furunculo",
+        "infeccion de piel"
+      ],
+      "references" : [
+        {
+          "title" : "IDSA 2014: Practice Guidelines for Skin and Soft Tissue Infections",
+          "url" : "https:\/\/www.idsociety.org\/practice-guideline\/skin-and-soft-tissue-infections\/",
+          "year" : "2014"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Pocas lesiones",
+          "id" : "piel_impetigo",
+          "items" : [
+            {
+              "drugID" : "mupirocina",
+              "presentation" : "Ungüento 2 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada",
+                "duration" : "por 5 días",
+                "frequency" : "cada 8 horas",
+                "route" : "tópica"
+              }
+            }
+          ],
+          "measures" : [
+            "Lavar con agua y jabón y retirar costras suavemente.",
+            "Uñas cortas; no compartir toallas."
+          ],
+          "title" : "Impétigo localizado"
+        },
+        {
+          "detail" : "Sin datos de gravedad",
+          "id" : "piel_celulitis",
+          "items" : [
+            {
+              "drugID" : "cefalexina",
+              "presentation" : "Cápsulas 500 mg",
+              "sig" : {
+                "dose" : "1 cápsula de 500 mg",
+                "duration" : "por 5 días",
+                "frequency" : "cada 6 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Marcar el borde del eritema y revalorar en 48–72 horas.",
+            "Elevar la extremidad."
+          ],
+          "title" : "Celulitis no purulenta"
+        },
+        {
+          "detail" : "Después del drenaje; cubre SARM",
+          "id" : "piel_absceso",
+          "items" : [
+            {
+              "drugID" : "tmp_smx",
+              "presentation" : "Tabletas 160\/800 mg",
+              "sig" : {
+                "dose" : "1 a 2 tabletas de 160\/800 mg",
+                "duration" : "por 7 días",
+                "frequency" : "cada 12 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Incisión y drenaje del absceso.",
+            "Curación diaria."
+          ],
+          "title" : "Absceso con datos sistémicos"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Impétigo con pocas lesiones: mupirocina tópica 5 días; extenso: dicloxacilina o cefalexina 7 días.",
+            "Celulitis no purulenta: cefalexina o dicloxacilina por 5 días (extender si no mejora); marcar el borde y elevar la extremidad.",
+            "Absceso: incisión y drenaje; antibiótico (TMP\/SMX o doxiciclina) si hay fiebre, SIRS, extensión o inmunosupresión."
+          ],
+          "title" : "Tratamiento"
+        },
+        {
+          "points" : [
+            "Dolor desproporcionado, bulas hemorrágicas, crepitación, necrosis o toxicidad sistémica: sospechar fascitis necrosante y enviar a urgencias.",
+            "Celulitis periorbitaria, de mano o en diabéticos con úlcera: valoración especializada."
+          ],
+          "title" : "Datos de alarma"
+        }
+      ],
+      "source" : "IDSA 2014 (infecciones de piel y tejidos blandos).",
+      "summary" : "Impétigo localizado con mupirocina; celulitis no purulenta con betalactámico; absceso con drenaje y antibiótico contra SARM si hay datos sistémicos.",
+      "title" : "Infecciones de piel: impétigo, celulitis y abscesos"
+    },
+    {
+      "area" : "general",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "H10"
+      ],
+      "id" : "conjuntivitis",
+      "keywords" : [
+        "conjuntivitis",
+        "ojo rojo",
+        "conjuntivitis bacteriana",
+        "conjuntivitis alergica"
+      ],
+      "references" : [
+        {
+          "title" : "AAO Conjunctivitis Preferred Practice Pattern",
+          "url" : "https:\/\/www.aao.org\/education\/preferred-practice-pattern",
+          "year" : "2023"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Secreción purulenta",
+          "id" : "conj_bact",
+          "items" : [
+            {
+              "drugID" : "tobramicina_oft",
+              "presentation" : "Solución oftálmica 0.3 %",
+              "sig" : {
+                "dose" : "1 gota en el ojo afectado",
+                "duration" : "por 5 a 7 días",
+                "frequency" : "cada 4 horas",
+                "route" : "oftálmica"
+              }
+            }
+          ],
+          "measures" : [
+            "Lavado de manos; no compartir toallas.",
+            "Suspender lentes de contacto."
+          ],
+          "title" : "Bacteriana"
+        },
+        {
+          "detail" : "Prurito bilateral",
+          "id" : "conj_alerg",
+          "items" : [
+            {
+              "drugID" : "olopatadina_oft",
+              "presentation" : "Solución oftálmica 0.1 %",
+              "sig" : {
+                "dose" : "1 gota en cada ojo",
+                "duration" : "por 2 semanas",
+                "frequency" : "cada 12 horas",
+                "route" : "oftálmica"
+              }
+            }
+          ],
+          "measures" : [
+            "Compresas frías; evitar frotarse los ojos."
+          ],
+          "title" : "Alérgica"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Viral: secreción acuosa, inicio en un ojo y pasa al otro, adenopatía preauricular, cuadro gripal.",
+            "Bacteriana: secreción purulenta, párpados pegados al despertar.",
+            "Alérgica: prurito intenso bilateral, antecedente atópico."
+          ],
+          "title" : "Orientación"
+        },
+        {
+          "points" : [
+            "Dolor intenso, fotofobia, disminución de la agudeza visual, opacidad corneal, usuario de lentes de contacto, recién nacido o falta de mejoría en 1 semana."
+          ],
+          "title" : "Envío a oftalmología"
+        }
+      ],
+      "source" : "American Academy of Ophthalmology, Conjunctivitis Preferred Practice Pattern (2023).",
+      "summary" : "La mayoría es viral y autolimitada; antibiótico tópico solo si es bacteriana; antihistamínico tópico si es alérgica.",
+      "title" : "Conjuntivitis"
+    },
+    {
+      "area" : "dermatologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "L20",
+        "L30.9"
+      ],
+      "id" : "dermatitis_atopica",
+      "keywords" : [
+        "dermatitis atopica",
+        "eccema",
+        "eczema",
+        "dermatitis"
+      ],
+      "references" : [
+        {
+          "title" : "AAD Guidelines of care for the management of atopic dermatitis with topical therapies (2023)",
+          "url" : "https:\/\/www.aad.org\/member\/clinical-quality\/guidelines",
+          "year" : "2023"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Adulto o niño",
+          "id" : "da_brote",
+          "items" : [
+            {
+              "drugID" : "hidrocortisona_crema",
+              "presentation" : "Crema 1 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada en cara y pliegues",
+                "duration" : "por 7 días",
+                "frequency" : "cada 12 horas",
+                "route" : "tópica"
+              }
+            },
+            {
+              "drugID" : "betametasona_crema",
+              "presentation" : "Crema 0.1 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada en tronco y extremidades",
+                "duration" : "por 7 días",
+                "frequency" : "cada 12 horas",
+                "route" : "tópica"
+              }
+            },
+            {
+              "drugID" : "emoliente",
+              "presentation" : "Crema emoliente",
+              "sig" : {
+                "dose" : "Aplicar abundante",
+                "duration" : "uso continuo",
+                "frequency" : "cada 12 horas y después del baño",
+                "route" : "tópica"
+              }
+            }
+          ],
+          "measures" : [
+            "Baño corto con agua tibia y jabón neutro.",
+            "Ropa de algodón; evitar irritantes."
+          ],
+          "title" : "Brote leve a moderado"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Emoliente en todo el cuerpo 2 veces al día y baño corto con agua tibia.",
+            "Brotes: corticoide tópico (baja potencia en cara y pliegues; media en tronco y extremidades) 1–2 semanas.",
+            "Tacrolimus tópico en cara, párpados y pliegues, o como mantenimiento 2 veces por semana.",
+            "Antihistamínicos orales no mejoran el eccema; solo si hay alteración del sueño.",
+            "Referir si es grave o no responde (fototerapia, dupilumab, inhibidores de JAK)."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "AAD 2023 (terapias tópicas en dermatitis atópica).",
+      "summary" : "Emolientes diarios; corticoide tópico de potencia según la zona; inhibidor de calcineurina en cara y pliegues.",
+      "title" : "Dermatitis atópica"
+    },
+    {
+      "area" : "dermatologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "L70"
+      ],
+      "id" : "acne",
+      "keywords" : [
+        "acne",
+        "acne vulgar",
+        "barros",
+        "espinillas"
+      ],
+      "references" : [
+        {
+          "title" : "AAD Guidelines of care for the management of acne vulgaris (2024)",
+          "url" : "https:\/\/www.aad.org\/member\/clinical-quality\/guidelines",
+          "year" : "2024"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Comedones y pápulas",
+          "id" : "acne_leve",
+          "items" : [
+            {
+              "drugID" : "adapaleno",
+              "presentation" : "Gel 0.1 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada en toda la zona",
+                "duration" : "por 12 semanas",
+                "frequency" : "cada noche",
+                "route" : "tópica"
+              }
+            },
+            {
+              "drugID" : "peroxido_benzoilo",
+              "presentation" : "Gel 2.5 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada",
+                "duration" : "por 12 semanas",
+                "frequency" : "cada mañana",
+                "route" : "tópica"
+              }
+            }
+          ],
+          "measures" : [
+            "Protector solar diario; lavado facial suave."
+          ],
+          "title" : "Acné leve"
+        },
+        {
+          "detail" : "Pápulas y pústulas extensas",
+          "id" : "acne_mod",
+          "items" : [
+            {
+              "drugID" : "doxiciclina",
+              "presentation" : "Cápsulas o tabletas 100 mg",
+              "sig" : {
+                "dose" : "1 cápsula de 100 mg",
+                "duration" : "por 12 semanas",
+                "frequency" : "cada 24 horas",
+                "route" : "oral"
+              }
+            },
+            {
+              "drugID" : "peroxido_benzoilo",
+              "presentation" : "Gel 5 %",
+              "sig" : {
+                "dose" : "Aplicar capa delgada",
+                "duration" : "por 12 semanas",
+                "frequency" : "cada noche",
+                "route" : "tópica"
+              }
+            }
+          ],
+          "measures" : [
+            "Tomar la doxiciclina con agua abundante y sin acostarse en 30 minutos."
+          ],
+          "title" : "Acné moderado inflamatorio"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Leve: peróxido de benzoilo + retinoide tópico (adapaleno).",
+            "Moderado: agregar doxiciclina oral por 3–4 meses, siempre con peróxido de benzoilo.",
+            "Grave, nodular o con cicatrices: referir a dermatología (isotretinoína).",
+            "Resultados en 8–12 semanas; continuar retinoide tópico como mantenimiento."
+          ],
+          "title" : "Tratamiento (AAD 2024)"
+        }
+      ],
+      "source" : "AAD 2024 (guía de manejo del acné).",
+      "summary" : "Peróxido de benzoilo y retinoide tópico como base; antibiótico oral solo en moderado-grave, por tiempo limitado y nunca como monoterapia.",
+      "title" : "Acné"
+    },
+    {
+      "area" : "pediatria",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "J21"
+      ],
+      "id" : "bronquiolitis",
+      "keywords" : [
+        "bronquiolitis",
+        "vsr",
+        "sibilancias en lactante"
+      ],
+      "references" : [
+        {
+          "title" : "AAP Clinical Practice Guideline: Bronchiolitis (2014)",
+          "url" : "https:\/\/publications.aap.org\/pediatrics",
+          "year" : "2014"
+        },
+        {
+          "title" : "NICE NG9: Bronchiolitis in children",
+          "url" : "https:\/\/www.nice.org.uk\/guidance\/ng9",
+          "year" : "2021"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Sin datos de gravedad",
+          "id" : "bronq_soporte",
+          "items" : [
+            {
+              "drugID" : "paracetamol",
+              "presentation" : "Gotas 100 mg\/mL",
+              "sig" : {
+                "dose" : "15 mg\/kg por dosis (calcular por peso)",
+                "duration" : "por 3 días",
+                "frequency" : "cada 6 horas en caso de fiebre",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Lavados nasales con solución salina y aspiración antes de comer.",
+            "Tomas pequeñas y frecuentes.",
+            "Acudir si respira rápido, se le hunden las costillas, hace pausas al respirar o no come."
+          ],
+          "title" : "Manejo en casa"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Aspiración nasal superficial, hidratación y alimentación fraccionada.",
+            "Oxígeno si SpO₂ persistente < 90–92 %.",
+            "No usar de rutina: salbutamol, epinefrina, corticoides, nebulizaciones con solución hipertónica (ambulatorio), antibióticos ni radiografía."
+          ],
+          "title" : "Manejo"
+        },
+        {
+          "points" : [
+            "Apneas, dificultad respiratoria moderada a grave, SpO₂ < 90 %, ingesta < 50 % de lo habitual, deshidratación, < 3 meses o prematurez, cardiopatía o neumopatía."
+          ],
+          "title" : "Hospitalizar si"
+        }
+      ],
+      "source" : "AAP 2014 (reafirmada); NICE NG9 (2021).",
+      "summary" : "Diagnóstico clínico; manejo de soporte. No se recomiendan salbutamol, corticoides, epinefrina ni antibióticos de rutina.",
+      "title" : "Bronquiolitis"
+    },
+    {
+      "area" : "pediatria",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "J05.0",
+        "J04"
+      ],
+      "id" : "crup",
+      "keywords" : [
+        "crup",
+        "laringotraqueitis",
+        "tos perruna",
+        "estridor"
+      ],
+      "references" : [
+        {
+          "title" : "Cochrane: Glucocorticoids for croup in children",
+          "url" : "https:\/\/www.cochranelibrary.com",
+          "year" : "2023"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Dosis única",
+          "id" : "crup_dexa",
+          "items" : [
+            {
+              "drugID" : "dexametasona",
+              "presentation" : "Solución inyectable 8 mg\/2 mL",
+              "sig" : {
+                "dose" : "0.6 mg\/kg (máximo 16 mg), puede darse por vía oral",
+                "duration" : "",
+                "frequency" : "dosis única",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Acudir si presenta ruido al respirar en reposo, dificultad respiratoria o coloración morada."
+          ],
+          "title" : "Crup leve a moderado"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Todos: dexametasona 0.15–0.6 mg\/kg VO dosis única (máximo 16 mg).",
+            "Moderado a grave (estridor en reposo, tiraje): epinefrina nebulizada y observación 2–4 h después.",
+            "Mantener al niño tranquilo; no hay evidencia del aire húmedo.",
+            "Datos de alarma: dificultad respiratoria grave, cianosis, letargia, sialorrea (descartar epiglotitis)."
+          ],
+          "title" : "Manejo"
+        }
+      ],
+      "source" : "Revisión Cochrane 2023 (corticoides en crup); guías canadienses (CPS 2023).",
+      "summary" : "Dexametasona oral en dosis única para todos los grados; epinefrina nebulizada si hay estridor en reposo.",
+      "title" : "Laringotraqueítis (crup)"
+    },
+    {
+      "area" : "pediatria",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "B01"
+      ],
+      "id" : "varicela",
+      "keywords" : [
+        "varicela",
+        "chickenpox",
+        "lechina"
+      ],
+      "references" : [
+        {
+          "title" : "CDC: Chickenpox (Varicella) for Healthcare Professionals",
+          "url" : "https:\/\/www.cdc.gov\/chickenpox\/",
+          "year" : ""
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Niño sano",
+          "id" : "var_sint",
+          "items" : [
+            {
+              "drugID" : "paracetamol",
+              "presentation" : "Suspensión 160 mg\/5 mL",
+              "sig" : {
+                "dose" : "15 mg\/kg por dosis (calcular por peso)",
+                "duration" : "por 5 días",
+                "frequency" : "cada 6 horas en caso de fiebre",
+                "route" : "oral"
+              }
+            },
+            {
+              "drugID" : "loratadina",
+              "presentation" : "Jarabe 5 mg\/5 mL",
+              "sig" : {
+                "dose" : "5 mg (2 a 5 años) o 10 mg (≥ 6 años)",
+                "duration" : "por 7 días",
+                "frequency" : "cada 24 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "No usar aspirina ni ibuprofeno.",
+            "Aislamiento hasta que todas las lesiones estén en costra."
+          ],
+          "title" : "Sintomático"
+        },
+        {
+          "detail" : "Iniciar en las primeras 24 h",
+          "id" : "var_aci",
+          "items" : [
+            {
+              "drugID" : "aciclovir",
+              "presentation" : "Tabletas 800 mg",
+              "sig" : {
+                "dose" : "1 tableta de 800 mg",
+                "duration" : "por 5 días",
+                "frequency" : "5 veces al día",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+
+          ],
+          "title" : "Adolescente o adulto"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Paracetamol para la fiebre; no usar aspirina (síndrome de Reye) ni AINE (riesgo de infección invasiva de piel).",
+            "Antihistamínico y uñas cortas para el prurito.",
+            "Aciclovir oral en > 12 años, enfermedad cutánea o pulmonar crónica, uso de corticoides o salicilatos, o casos secundarios en el hogar, iniciado en 24 h.",
+            "Aislamiento hasta que todas las lesiones estén en costra.",
+            "Inmunosuprimidos, embarazadas o complicaciones (neumonía, encefalitis, sobreinfección): envío urgente."
+          ],
+          "title" : "Manejo"
+        }
+      ],
+      "source" : "CDC; AAP Red Book.",
+      "summary" : "Tratamiento sintomático; aciclovir en adolescentes, adultos y grupos de riesgo si se inicia en las primeras 24 h. Nunca aspirina.",
+      "title" : "Varicela"
+    },
+    {
+      "area" : "infectologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "A54",
+        "A56",
+        "N34"
+      ],
+      "id" : "its_uretritis",
+      "keywords" : [
+        "uretritis",
+        "cervicitis",
+        "gonorrea",
+        "clamidia",
+        "secrecion uretral",
+        "its"
+      ],
+      "references" : [
+        {
+          "title" : "CDC Sexually Transmitted Infections Treatment Guidelines 2021",
+          "url" : "https:\/\/www.cdc.gov\/std\/treatment-guidelines\/",
+          "year" : "2021"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "No embarazada",
+          "id" : "its_empirico",
+          "items" : [
+            {
+              "drugID" : "ceftriaxona",
+              "presentation" : "Solución inyectable 500 mg",
+              "sig" : {
+                "dose" : "500 mg",
+                "duration" : "",
+                "frequency" : "dosis única",
+                "route" : "intramuscular"
+              }
+            },
+            {
+              "drugID" : "doxiciclina",
+              "presentation" : "Cápsulas o tabletas 100 mg",
+              "sig" : {
+                "dose" : "1 cápsula de 100 mg",
+                "duration" : "por 7 días",
+                "frequency" : "cada 12 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Abstinencia sexual 7 días después del tratamiento de ambos.",
+            "Tratar a la pareja.",
+            "Pruebas de VIH y sífilis."
+          ],
+          "title" : "Empírico gonorrea + clamidia"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Gonorrea: ceftriaxona 500 mg IM dosis única (1 g si ≥ 150 kg).",
+            "Clamidia: doxiciclina 100 mg cada 12 h por 7 días; en embarazo, azitromicina 1 g dosis única.",
+            "Tratar a las parejas de los últimos 60 días; abstinencia 7 días después del tratamiento de ambos.",
+            "Ofrecer pruebas de VIH, sífilis y hepatitis B; prueba de curación en embarazo."
+          ],
+          "title" : "Manejo (CDC 2021)"
+        }
+      ],
+      "source" : "CDC STI Treatment Guidelines 2021.",
+      "summary" : "Tratamiento empírico de gonorrea y clamidia, tratamiento de parejas y tamizaje de VIH y sífilis.",
+      "title" : "Uretritis y cervicitis (gonorrea y clamidia)"
+    },
+    {
+      "area" : "infectologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "A51",
+        "A52",
+        "A53"
+      ],
+      "id" : "sifilis",
+      "keywords" : [
+        "sifilis",
+        "chancro",
+        "vdrl"
+      ],
+      "references" : [
+        {
+          "title" : "CDC Sexually Transmitted Infections Treatment Guidelines 2021",
+          "url" : "https:\/\/www.cdc.gov\/std\/treatment-guidelines\/",
+          "year" : "2021"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Primaria, secundaria o latente < 1 año",
+          "id" : "sif_temprana",
+          "items" : [
+            {
+              "drugID" : "penicilina_benzatinica",
+              "presentation" : "Suspensión inyectable 1,200,000 UI",
+              "sig" : {
+                "dose" : "2,400,000 UI (1,200,000 UI en cada glúteo)",
+                "duration" : "",
+                "frequency" : "dosis única",
+                "route" : "intramuscular profunda"
+              }
+            }
+          ],
+          "measures" : [
+            "Tratar a las parejas sexuales.",
+            "VDRL de control a los 6 y 12 meses.",
+            "Prueba de VIH."
+          ],
+          "title" : "Sífilis temprana"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Primaria, secundaria o latente temprana (< 1 año): penicilina G benzatínica 2.4 millones UI IM dosis única.",
+            "Latente tardía o de duración desconocida: 2.4 millones UI IM semanal por 3 semanas.",
+            "Alergia a penicilina (no embarazada): doxiciclina 100 mg cada 12 h por 14 días (28 días si es tardía).",
+            "Embarazo: solo penicilina (desensibilizar si hay alergia). Notificación obligatoria; VDRL de control a 6 y 12 meses."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "CDC STI Treatment Guidelines 2021.",
+      "summary" : "Penicilina G benzatínica según el estadio; en el embarazo siempre penicilina.",
+      "title" : "Sífilis"
+    },
+    {
+      "area" : "medicinaInterna",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "M15",
+        "M16",
+        "M17",
+        "M18",
+        "M19"
+      ],
+      "id" : "artrosis",
+      "keywords" : [
+        "artrosis",
+        "osteoartrosis",
+        "gonartrosis",
+        "coxartrosis",
+        "osteoartritis"
+      ],
+      "references" : [
+        {
+          "title" : "2019 ACR\/Arthritis Foundation Guideline for the Management of Osteoarthritis",
+          "url" : "https:\/\/rheumatology.org\/clinical-practice-guidelines",
+          "year" : "2019"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Primera línea",
+          "id" : "oa_rodilla",
+          "items" : [
+            {
+              "drugID" : "diclofenaco_gel",
+              "presentation" : "Gel 1 %",
+              "sig" : {
+                "dose" : "4 g sobre la rodilla",
+                "duration" : "por 4 semanas",
+                "frequency" : "cada 6 horas",
+                "route" : "tópica"
+              }
+            }
+          ],
+          "measures" : [
+            "Ejercicio de fortalecimiento de cuádriceps 3 veces por semana.",
+            "Bajar de peso si hay sobrepeso."
+          ],
+          "title" : "Artrosis de rodilla"
+        },
+        {
+          "detail" : "Sin contraindicación para AINE",
+          "id" : "oa_oral",
+          "items" : [
+            {
+              "drugID" : "naproxeno",
+              "presentation" : "Tabletas 250 mg",
+              "sig" : {
+                "dose" : "1 tableta de 250 mg",
+                "duration" : "por 2 semanas",
+                "frequency" : "cada 12 horas con alimentos",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+
+          ],
+          "title" : "Dolor persistente"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Ejercicio, pérdida de peso (rodilla y cadera), tai chi y bastón cuando aplica.",
+            "AINE tópico de primera línea en rodilla; AINE oral a la menor dosis y tiempo posible.",
+            "Duloxetina como alternativa; paracetamol con beneficio limitado.",
+            "Infiltración intraarticular de corticoide en brotes.",
+            "No se recomiendan glucosamina, condroitina ni opioides de rutina."
+          ],
+          "title" : "Tratamiento (ACR 2019)"
+        }
+      ],
+      "source" : "ACR\/Arthritis Foundation 2019 (osteoartrosis de mano, cadera y rodilla).",
+      "summary" : "Ejercicio y control de peso como base; AINE tópico en rodilla; AINE oral o duloxetina según comorbilidades.",
+      "title" : "Osteoartrosis"
+    },
+    {
+      "area" : "psiquiatria",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "F51.0",
+        "G47.0"
+      ],
+      "id" : "insomnio",
+      "keywords" : [
+        "insomnio",
+        "trastorno del sueño",
+        "no puede dormir"
+      ],
+      "references" : [
+        {
+          "title" : "ACP 2016: Management of Chronic Insomnia Disorder in Adults",
+          "url" : "https:\/\/www.acpjournals.org\/journal\/aim",
+          "year" : "2016"
+        },
+        {
+          "title" : "AASM Clinical Practice Guidelines (insomnia)",
+          "url" : "https:\/\/aasm.org\/clinical-resources\/practice-standards\/practice-guidelines\/",
+          "year" : "2021"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Primera línea",
+          "id" : "ins_tcc",
+          "items" : [
+
+          ],
+          "measures" : [
+            "Acostarse solo con sueño y levantarse a la misma hora todos los días.",
+            "Si no se duerme en 20 minutos, levantarse y volver con sueño.",
+            "Cama solo para dormir; sin pantallas 1 hora antes.",
+            "Evitar cafeína después del mediodía, alcohol y siestas largas.",
+            "Diario de sueño por 2 semanas y revaloración."
+          ],
+          "title" : "Medidas conductuales"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Dificultad para iniciar o mantener el sueño ≥ 3 noches por semana por ≥ 3 meses con afectación diurna.",
+            "Buscar depresión, ansiedad, apnea del sueño, síndrome de piernas inquietas, dolor, cafeína, alcohol y fármacos."
+          ],
+          "title" : "Evaluación"
+        },
+        {
+          "points" : [
+            "Terapia cognitivo-conductual: control de estímulos, restricción de sueño, horarios fijos, higiene del sueño.",
+            "Evitar antihistamínicos sedantes y benzodiacepinas, sobre todo en adultos mayores (Beers).",
+            "Si se requiere fármaco: uso corto y valoración por especialista."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "ACP 2016; AASM 2017 (tratamiento farmacológico) y 2021 (tratamiento conductual).",
+      "summary" : "Terapia cognitivo-conductual para insomnio como primera línea; fármacos solo por tiempo corto y con valoración individual.",
+      "title" : "Insomnio crónico"
+    },
+    {
+      "area" : "psiquiatria",
+      "calculatorIDs" : [
+        "gad7"
+      ],
+      "icd10" : [
+        "F41"
+      ],
+      "id" : "ansiedad",
+      "keywords" : [
+        "ansiedad",
+        "trastorno de ansiedad",
+        "ansiedad generalizada",
+        "panico",
+        "angustia"
+      ],
+      "references" : [
+        {
+          "title" : "NICE CG113: Generalised anxiety disorder and panic disorder in adults",
+          "url" : "https:\/\/www.nice.org.uk\/guidance\/cg113",
+          "year" : "2020"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Ansiedad moderada a grave",
+          "id" : "tag_sert",
+          "items" : [
+            {
+              "drugID" : "sertralina",
+              "presentation" : "Tabletas 50 mg",
+              "sig" : {
+                "dose" : "1\/2 tableta de 50 mg",
+                "duration" : "uso continuo",
+                "frequency" : "cada 24 horas por la mañana; a la semana aumentar a 1 tableta",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Psicoterapia cognitivo-conductual.",
+            "Revaloración en 2–4 semanas."
+          ],
+          "title" : "Sertralina"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "GAD-7 para tamizaje y seguimiento; descartar hipertiroidismo, consumo de sustancias y depresión."
+          ],
+          "title" : "Evaluación"
+        },
+        {
+          "points" : [
+            "Escalonado: psicoeducación y autoayuda → terapia cognitivo-conductual → fármaco.",
+            "Primera elección: sertralina; alternativas: escitalopram, venlafaxina o duloxetina.",
+            "Evaluar a las 4–6 semanas; mantener 12 meses después de la respuesta.",
+            "Evitar benzodiacepinas salvo crisis y por no más de 2–4 semanas."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "NICE CG113 (actualizada 2020); mhGAP OMS 2023.",
+      "summary" : "Psicoeducación y terapia cognitivo-conductual; ISRS (sertralina) como primer fármaco; evitar benzodiacepinas salvo crisis por tiempo corto.",
+      "title" : "Trastorno de ansiedad generalizada"
+    },
+    {
+      "area" : "general",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "F17",
+        "Z72.0"
+      ],
+      "id" : "tabaquismo",
+      "keywords" : [
+        "tabaquismo",
+        "dejar de fumar",
+        "fumador",
+        "cigarro"
+      ],
+      "references" : [
+        {
+          "title" : "USPSTF 2021: Tobacco Smoking Cessation in Adults",
+          "url" : "https:\/\/www.uspreventiveservicestaskforce.org",
+          "year" : "2021"
+        },
+        {
+          "title" : "ATS 2020: Initiating Pharmacologic Treatment in Tobacco-Dependent Adults",
+          "url" : "https:\/\/www.atsjournals.org",
+          "year" : "2020"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Primera elección",
+          "id" : "tab_vare",
+          "items" : [
+            {
+              "drugID" : "vareniclina",
+              "presentation" : "Tabletas 0.5 mg",
+              "sig" : {
+                "dose" : "0.5 mg",
+                "duration" : "por 12 semanas",
+                "frequency" : "cada 24 horas por 3 días, luego cada 12 horas; desde el día 8, 1 mg cada 12 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Fijar fecha para dejar de fumar entre el día 8 y 35.",
+            "Seguimiento en 2–4 semanas."
+          ],
+          "title" : "Vareniclina"
+        },
+        {
+          "detail" : "> 10 cigarrillos al día",
+          "id" : "tab_trn",
+          "items" : [
+            {
+              "drugID" : "parche_nicotina",
+              "presentation" : "Parche 21 mg\/24 h",
+              "sig" : {
+                "dose" : "1 parche de 21 mg",
+                "duration" : "por 6 semanas y después reducir",
+                "frequency" : "cada 24 horas, rotando el sitio",
+                "route" : "transdérmica"
+              }
+            }
+          ],
+          "measures" : [
+            "Agregar chicle o pastilla de nicotina para antojos."
+          ],
+          "title" : "Reemplazo de nicotina"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Preguntar, aconsejar, evaluar disposición, ayudar y dar seguimiento en cada consulta.",
+            "ATS 2020: vareniclina sobre parche de nicotina; iniciar aunque el paciente aún no esté listo para dejarlo.",
+            "Alternativas: parche + chicle o pastilla de nicotina, o bupropión.",
+            "Línea de ayuda e intervención conductual aumentan el éxito."
+          ],
+          "title" : "Intervención"
+        }
+      ],
+      "source" : "USPSTF 2021; ATS 2020 (tratamiento farmacológico de la dependencia al tabaco).",
+      "summary" : "Consejo breve en cada consulta más fármaco: vareniclina de preferencia, o terapia de reemplazo de nicotina combinada.",
+      "title" : "Tabaquismo"
+    },
+    {
+      "area" : "infectologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "B76",
+        "B77",
+        "B79",
+        "B80",
+        "B82",
+        "A07.1",
+        "A06"
+      ],
+      "id" : "parasitosis",
+      "keywords" : [
+        "parasitosis",
+        "parasitos",
+        "lombrices",
+        "oxiuros",
+        "giardiasis",
+        "amibiasis",
+        "ascaris"
+      ],
+      "references" : [
+        {
+          "title" : "OMS: Preventive chemotherapy to control soil-transmitted helminth infections (2017)",
+          "url" : "https:\/\/www.who.int\/publications",
+          "year" : "2017"
+        },
+        {
+          "title" : "CDC: Parasites, resources for health professionals",
+          "url" : "https:\/\/www.cdc.gov\/parasites\/",
+          "year" : ""
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "≥ 2 años",
+          "id" : "par_helm",
+          "items" : [
+            {
+              "drugID" : "albendazol",
+              "presentation" : "Tabletas 400 mg",
+              "sig" : {
+                "dose" : "1 tableta de 400 mg",
+                "duration" : "",
+                "frequency" : "dosis única",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Lavado de manos y consumo de agua hervida."
+          ],
+          "title" : "Geohelmintiasis"
+        },
+        {
+          "detail" : "Tratar a convivientes",
+          "id" : "par_oxi",
+          "items" : [
+            {
+              "drugID" : "albendazol",
+              "presentation" : "Tabletas 400 mg",
+              "sig" : {
+                "dose" : "1 tableta de 400 mg",
+                "duration" : "",
+                "frequency" : "dosis única; repetir en 2 semanas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Cambiar y lavar ropa de cama; uñas cortas."
+          ],
+          "title" : "Enterobiasis (oxiuros)"
+        },
+        {
+          "detail" : "Adulto",
+          "id" : "par_giardia",
+          "items" : [
+            {
+              "drugID" : "tinidazol",
+              "presentation" : "Tabletas 500 mg",
+              "sig" : {
+                "dose" : "4 tabletas de 500 mg (2 g)",
+                "duration" : "",
+                "frequency" : "dosis única con alimentos",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Evitar alcohol 72 horas."
+          ],
+          "title" : "Giardiasis"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Geohelmintiasis: albendazol 400 mg dosis única (200 mg de 1 a 2 años).",
+            "Enterobiasis: albendazol 400 mg, repetir a las 2 semanas; tratar a toda la familia.",
+            "Giardiasis: tinidazol 2 g dosis única o metronidazol 7 días; nitazoxanida como alternativa.",
+            "Amibiasis intestinal: metronidazol 7–10 días seguido de amebicida luminal."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "OMS (quimioterapia preventiva de helmintiasis, 2017); CDC.",
+      "summary" : "Albendazol para geohelmintos y oxiuros; metronidazol o tinidazol para giardiasis y amibiasis.",
+      "title" : "Parasitosis intestinal"
+    },
+    {
+      "area" : "urgencias",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "I10",
+        "I67.4"
+      ],
+      "id" : "crisis_hta",
+      "keywords" : [
+        "crisis hipertensiva",
+        "urgencia hipertensiva",
+        "emergencia hipertensiva",
+        "descontrol hipertensivo"
+      ],
+      "references" : [
+        {
+          "title" : "ESC 2024 Guidelines for the management of elevated blood pressure and hypertension",
+          "url" : "https:\/\/www.escardio.org\/Guidelines\/Clinical-Practice-Guidelines",
+          "year" : "2024"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Paciente ambulatorio",
+          "id" : "chta_urg",
+          "items" : [
+            {
+              "drugID" : "amlodipino",
+              "presentation" : "Tabletas 5 mg",
+              "sig" : {
+                "dose" : "1 tableta de 5 mg",
+                "duration" : "uso continuo",
+                "frequency" : "cada 24 horas",
+                "route" : "oral"
+              }
+            },
+            {
+              "drugID" : "losartan",
+              "presentation" : "Tabletas 50 mg",
+              "sig" : {
+                "dose" : "1 tableta de 50 mg",
+                "duration" : "uso continuo",
+                "frequency" : "cada 24 horas",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Revaloración en 24–72 horas.",
+            "Acudir de inmediato si hay dolor torácico, falta de aire, déficit neurológico o alteraciones visuales."
+          ],
+          "title" : "Urgencia (sin daño agudo)"
+        },
+        {
+          "detail" : "Mientras se traslada a hospital",
+          "id" : "chta_emerg",
+          "items" : [
+            {
+              "drugID" : "labetalol",
+              "presentation" : "Solución inyectable 5 mg\/mL",
+              "sig" : {
+                "dose" : "20 mg",
+                "duration" : "",
+                "frequency" : "en 2 minutos; después 20–80 mg cada 10 minutos (máximo 300 mg)",
+                "route" : "intravenosa"
+              }
+            }
+          ],
+          "measures" : [
+            "Monitorización continua; reducir no más de 25 % en la primera hora."
+          ],
+          "title" : "Emergencia (daño agudo)"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "PA muy elevada (≥ 180\/110 mmHg) sin daño agudo: hipertensión grave no controlada (urgencia).",
+            "Con daño agudo (encefalopatía, EVC, SCA, edema pulmonar, disección aórtica, preeclampsia, lesión renal aguda, retinopatía grave): emergencia."
+          ],
+          "title" : "Clasificación"
+        },
+        {
+          "points" : [
+            "Urgencia: reiniciar o ajustar fármacos orales y revalorar en 24–72 h. No usar nifedipino sublingual.",
+            "Emergencia: UCI o urgencias; reducir no más de 25 % en la primera hora (excepto disección aórtica, EVC y preeclampsia, con metas propias).",
+            "Fármacos IV: labetalol, nicardipino, nitroglicerina (SCA o edema pulmonar), nitroprusiato."
+          ],
+          "title" : "Manejo"
+        }
+      ],
+      "source" : "ESC 2024; AHA\/ACC 2025; ACC\/AHA 2017.",
+      "summary" : "Sin daño agudo a órgano blanco: reajuste oral y descenso gradual en 24–48 h. Con daño agudo: hospitalizar y reducir la PA de forma controlada por vía IV.",
+      "title" : "Urgencia y emergencia hipertensiva"
+    },
+    {
+      "area" : "endocrinologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "E16"
+      ],
+      "id" : "hipoglucemia",
+      "keywords" : [
+        "hipoglucemia",
+        "glucosa baja"
+      ],
+      "references" : [
+        {
+          "title" : "ADA Standards of Care in Diabetes—2026, Section 6",
+          "url" : "https:\/\/diabetesjournals.org\/care\/issue\/49\/Supplement_1",
+          "year" : "2026"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Con acceso IV",
+          "id" : "hipo_iv",
+          "items" : [
+            {
+              "drugID" : "dextrosa50",
+              "presentation" : "Solución inyectable 50 % 50 mL",
+              "sig" : {
+                "dose" : "50 mL de dextrosa al 50 % (25 g)",
+                "duration" : "",
+                "frequency" : "en 2 a 5 minutos",
+                "route" : "intravenosa"
+              }
+            }
+          ],
+          "measures" : [
+            "Glucosa capilar a los 15 minutos.",
+            "Alimento en cuanto pueda comer."
+          ],
+          "title" : "Con alteración del estado de alerta"
+        },
+        {
+          "detail" : "Familiar o personal de salud",
+          "id" : "hipo_glucagon",
+          "items" : [
+            {
+              "drugID" : "glucagon",
+              "presentation" : "Solución inyectable 1 mg",
+              "sig" : {
+                "dose" : "1 mg",
+                "duration" : "",
+                "frequency" : "dosis única; repetir en 15 minutos si no responde",
+                "route" : "intramuscular"
+              }
+            }
+          ],
+          "measures" : [
+
+          ],
+          "title" : "Sin acceso IV"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Nivel 1: glucosa < 70 mg\/dL. Nivel 2: < 54 mg\/dL. Nivel 3: alteración mental o física que requiere ayuda."
+          ],
+          "title" : "Niveles (ADA)"
+        },
+        {
+          "points" : [
+            "Consciente: 15–20 g de glucosa oral; repetir glucosa en 15 min y otra dosis si sigue < 70; después colación.",
+            "Alteración del estado de alerta: glucagón IM\/SC o intranasal, o dextrosa IV.",
+            "Hipoglucemia por sulfonilureas: puede recurrir; observar ≥ 24 h.",
+            "Revisar dosis de insulina o sulfonilureas, alimentación, alcohol y función renal."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "ADA Standards of Care 2026 (sección 6).",
+      "summary" : "Regla 15\/15 si puede deglutir; glucagón o dextrosa IV si hay alteración del estado de alerta. Buscar la causa y ajustar el tratamiento.",
+      "title" : "Hipoglucemia"
+    },
+    {
+      "area" : "urgencias",
+      "calculatorIDs" : [
+        "na_corregido",
+        "anion_gap",
+        "osmolaridad"
+      ],
+      "icd10" : [
+        "E10.0",
+        "E10.1",
+        "E11.0",
+        "E11.1",
+        "E13.1"
+      ],
+      "id" : "cad",
+      "keywords" : [
+        "cetoacidosis",
+        "cad",
+        "estado hiperosmolar",
+        "eho",
+        "crisis hiperglucemica"
+      ],
+      "references" : [
+        {
+          "title" : "Hyperglycemic Crises in Adults With Diabetes: A Consensus Report (Diabetes Care 2024)",
+          "url" : "https:\/\/diabetesjournals.org\/care",
+          "year" : "2024"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Mientras se traslada o en urgencias",
+          "id" : "cad_inicio",
+          "items" : [
+            {
+              "drugID" : "solucion_salina",
+              "presentation" : "Solución inyectable 1,000 mL",
+              "sig" : {
+                "dose" : "1,000 a 1,500 mL",
+                "duration" : "",
+                "frequency" : "en 1 hora",
+                "route" : "intravenosa"
+              }
+            },
+            {
+              "drugID" : "insulina_regular",
+              "presentation" : "Frasco ámpula 100 UI\/mL",
+              "sig" : {
+                "dose" : "0.1 UI\/kg\/h (solo si potasio ≥ 3.5 mEq\/L)",
+                "duration" : "hasta resolver",
+                "frequency" : "en infusión continua",
+                "route" : "intravenosa"
+              }
+            },
+            {
+              "drugID" : "cloruro_potasio",
+              "presentation" : "Solución inyectable 2 mEq\/mL (ámpula 10 mL)",
+              "sig" : {
+                "dose" : "20 a 30 mEq por litro de solución",
+                "duration" : "",
+                "frequency" : "en infusión si potasio 3.5–5.0 mEq\/L",
+                "route" : "intravenosa"
+              }
+            }
+          ],
+          "measures" : [
+            "Glucosa capilar cada hora; electrolitos y gasometría cada 2–4 horas.",
+            "Traslado a hospital."
+          ],
+          "title" : "Primera hora"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "CAD: glucosa ≥ 200 mg\/dL (o diabetes conocida), cetonemia ≥ 3 mmol\/L y pH < 7.3 o bicarbonato < 18 mEq\/L.",
+            "Estado hiperosmolar: glucosa ≥ 600 mg\/dL, osmolaridad efectiva > 300 mOsm\/kg, sin cetoacidosis importante."
+          ],
+          "title" : "Diagnóstico (consenso 2024)"
+        },
+        {
+          "points" : [
+            "Cristaloide isotónico 1–1.5 L en la primera hora; después según estado hídrico y sodio corregido.",
+            "Potasio < 3.5 mEq\/L: reponer antes de iniciar insulina. 3.5–5.0: agregar 20–30 mEq por litro.",
+            "Insulina regular IV 0.1 UI\/kg\/h; agregar dextrosa al 5–10 % cuando la glucosa sea < 250 mg\/dL.",
+            "Monitorizar glucosa cada hora y electrolitos cada 2–4 h. Resolución: pH ≥ 7.3, bicarbonato ≥ 18 y cetonemia < 0.6 mmol\/L.",
+            "Buscar el desencadenante (infección, suspensión de insulina, IAM, iSGLT2)."
+          ],
+          "title" : "Manejo inicial"
+        }
+      ],
+      "source" : "Consenso ADA\/EASD\/JBDS\/AACE\/DTS 2024 sobre crisis hiperglucémicas.",
+      "summary" : "Líquidos IV, potasio antes de la insulina si está bajo, insulina IV en infusión y dextrosa al bajar la glucosa; traslado a hospital.",
+      "title" : "Cetoacidosis diabética y estado hiperosmolar (manejo inicial)"
+    },
+    {
+      "area" : "urgencias",
+      "calculatorIDs" : [
+        "qsofa",
+        "indice_choque"
+      ],
+      "icd10" : [
+        "A41",
+        "A40",
+        "R65",
+        "R57"
+      ],
+      "id" : "sepsis",
+      "keywords" : [
+        "sepsis",
+        "choque septico",
+        "septicemia"
+      ],
+      "references" : [
+        {
+          "title" : "Surviving Sepsis Campaign: International Guidelines 2021",
+          "url" : "https:\/\/www.sccm.org\/survivingsepsiscampaign\/guidelines-and-resources",
+          "year" : "2021"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "Sin factores de riesgo para multirresistentes",
+          "id" : "sep_comunidad",
+          "items" : [
+            {
+              "drugID" : "hartmann",
+              "presentation" : "Solución inyectable 1,000 mL",
+              "sig" : {
+                "dose" : "30 mL\/kg",
+                "duration" : "",
+                "frequency" : "en 3 horas si hay hipotensión o lactato ≥ 4",
+                "route" : "intravenosa"
+              }
+            },
+            {
+              "drugID" : "ceftriaxona",
+              "presentation" : "Solución inyectable 1 g",
+              "sig" : {
+                "dose" : "2 g",
+                "duration" : "según foco y cultivos",
+                "frequency" : "cada 24 horas",
+                "route" : "intravenosa"
+              }
+            }
+          ],
+          "measures" : [
+            "Hemocultivos antes del antibiótico.",
+            "Lactato y revaloración del volumen.",
+            "Traslado a hospital."
+          ],
+          "title" : "Sepsis adquirida en la comunidad"
+        },
+        {
+          "detail" : "Hospitalización reciente o antibióticos previos",
+          "id" : "sep_riesgo",
+          "items" : [
+            {
+              "drugID" : "piperacilina_tazo",
+              "presentation" : "Solución inyectable 4.5 g",
+              "sig" : {
+                "dose" : "4.5 g",
+                "duration" : "según cultivos",
+                "frequency" : "cada 6 horas",
+                "route" : "intravenosa"
+              }
+            },
+            {
+              "drugID" : "norepinefrina",
+              "presentation" : "Solución inyectable 4 mg\/4 mL",
+              "sig" : {
+                "dose" : "0.05 µg\/kg\/min",
+                "duration" : "",
+                "frequency" : "en infusión; titular a PAM ≥ 65 mmHg",
+                "route" : "intravenosa"
+              }
+            }
+          ],
+          "measures" : [
+
+          ],
+          "title" : "Con riesgo de multirresistencia"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Medir lactato (repetir si > 2 mmol\/L).",
+            "Hemocultivos antes del antibiótico, sin retrasarlo.",
+            "Antibiótico de amplio espectro en la primera hora si hay choque o sepsis probable (en ≤ 3 h si la sepsis es posible sin choque).",
+            "Cristaloide 30 mL\/kg en las primeras 3 h si hay hipotensión o lactato ≥ 4 mmol\/L (preferir soluciones balanceadas).",
+            "Norepinefrina si persiste PAM < 65 mmHg; puede iniciarse por vía periférica."
+          ],
+          "title" : "Paquete de la primera hora"
+        },
+        {
+          "points" : [
+            "qSOFA no debe usarse solo como herramienta de tamizaje; combinar con SIRS, NEWS o SOFA.",
+            "Elegir el antibiótico según el foco, riesgo de SARM o multirresistentes y la resistencia local."
+          ],
+          "title" : "Notas"
+        }
+      ],
+      "source" : "Surviving Sepsis Campaign 2021.",
+      "summary" : "Reconocer temprano, lactato y hemocultivos, antibiótico en la primera hora, cristaloides 30 mL\/kg si hay hipotensión y norepinefrina para PAM ≥ 65 mmHg.",
+      "title" : "Sepsis y choque séptico (primera hora)"
+    },
+    {
+      "area" : "neurologia",
+      "calculatorIDs" : [
+
+      ],
+      "icd10" : [
+        "H81",
+        "R42"
+      ],
+      "id" : "vppb",
+      "keywords" : [
+        "vertigo",
+        "vppb",
+        "vertigo posicional",
+        "mareo"
+      ],
+      "references" : [
+        {
+          "title" : "AAO-HNS Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017)",
+          "url" : "https:\/\/www.entnet.org\/quality-practice\/quality-products\/clinical-practice-guidelines\/",
+          "year" : "2017"
+        }
+      ],
+      "regimens" : [
+        {
+          "detail" : "VPPB del canal posterior",
+          "id" : "vppb_epley",
+          "items" : [
+            {
+              "drugID" : "dimenhidrinato",
+              "presentation" : "Tabletas 50 mg",
+              "sig" : {
+                "dose" : "1 tableta de 50 mg",
+                "duration" : "máximo 2 días",
+                "frequency" : "cada 8 horas solo en caso de vértigo intenso",
+                "route" : "oral"
+              }
+            }
+          ],
+          "measures" : [
+            "Maniobra de Epley en la consulta.",
+            "Precaución al levantarse para evitar caídas.",
+            "Revaloración en 1 mes."
+          ],
+          "title" : "Maniobra de Epley ± sintomático"
+        }
+      ],
+      "reviewed" : "octubre de 2026",
+      "sections" : [
+        {
+          "points" : [
+            "Episodios breves (< 1 min) de vértigo al cambiar de posición; Dix-Hallpike positivo con nistagmo torsional.",
+            "Datos de alarma de causa central: déficit neurológico, cefalea intensa, nistagmo vertical puro o que cambia de dirección, no puede caminar."
+          ],
+          "title" : "Diagnóstico"
+        },
+        {
+          "points" : [
+            "Maniobra de reposicionamiento (Epley) en el consultorio; puede repetirse.",
+            "No se recomiendan supresores vestibulares de rutina; solo por 1–2 días si los síntomas son intensos.",
+            "Revalorar en 1 mes; referir si persiste."
+          ],
+          "title" : "Tratamiento"
+        }
+      ],
+      "source" : "AAO-HNS 2017 (guía de VPPB).",
+      "summary" : "Diagnóstico con Dix-Hallpike y tratamiento con maniobra de Epley; sin estudios de imagen ni supresores vestibulares de rutina.",
+      "title" : "Vértigo posicional paroxístico benigno"
     }
   ],
   "icd10" : [
@@ -6654,6 +8973,14 @@
     {
       "code" : "A37.9",
       "description" : "Tos ferina, no especificada"
+    },
+    {
+      "code" : "A40.9",
+      "description" : "Septicemia estreptocócica, no especificada"
+    },
+    {
+      "code" : "A41.9",
+      "description" : "Sepsis, no especificada"
     },
     {
       "code" : "A46",
@@ -6920,6 +9247,10 @@
       "description" : "Otras diabetes mellitus especificadas sin mención de complicación"
     },
     {
+      "code" : "E16.0",
+      "description" : "Hipoglucemia sin coma, inducida por drogas"
+    },
+    {
       "code" : "E16.2",
       "description" : "Hipoglucemia, no especificada"
     },
@@ -7080,6 +9411,10 @@
       "description" : "Isquemia cerebral transitoria, sin otra especificación"
     },
     {
+      "code" : "G47.0",
+      "description" : "Trastornos del inicio y del mantenimiento del sueño [insomnios]"
+    },
+    {
       "code" : "G51.0",
       "description" : "Parálisis de Bell"
     },
@@ -7218,6 +9553,10 @@
     {
       "code" : "I63.9",
       "description" : "Infarto cerebral, no especificado"
+    },
+    {
+      "code" : "I67.4",
+      "description" : "Encefalopatía hipertensiva"
     },
     {
       "code" : "I64",
@@ -7862,6 +10201,14 @@
     {
       "code" : "R55",
       "description" : "Síncope y colapso"
+    },
+    {
+      "code" : "R57.2",
+      "description" : "Choque séptico"
+    },
+    {
+      "code" : "R65.1",
+      "description" : "Síndrome de respuesta inflamatoria sistémica de origen infeccioso, con falla orgánica"
     },
     {
       "code" : "R56.0",
