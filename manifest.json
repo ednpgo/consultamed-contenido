@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "consultamed-base",
+      "version": "octubre de 2026",
+      "title": "Contenido base de ConsultaMed",
+      "url": "paquetes/consultamed-base.json",
+      "published": "2026-10-29",
+      "notes": "Medicamentos, guías de consulta rápida y CIE-10 integrados, con referencias revisadas en octubre de 2026."
+    }
+  ]
+}
