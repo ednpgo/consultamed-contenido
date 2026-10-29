@@ -4322,6 +4322,2489 @@
         "frequency" : "cada 12 horas",
         "route" : "oral"
       }
+    },
+    {
+      "adult" : "7.5–15 mg cada 24 h.",
+      "adverse" : "Gastrointestinales, renales, cardiovasculares.",
+      "contraindications" : "Las de los AINE: úlcera activa, IC o ERC grave, tercer trimestre.",
+      "group" : "analgesicos",
+      "id" : "meloxicam",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "aine",
+        "artrosis"
+      ],
+      "name" : "Meloxicam",
+      "pregnancy" : "Evitar a partir de la semana 20.",
+      "presentations" : [
+        "Tabletas 7.5 mg",
+        "Tabletas 15 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Evitar si TFG < 30.",
+      "sig" : {
+        "dose" : "1 tableta de 15 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada 24 horas con alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Artrosis: 60 mg cada 24 h. Artritis reumatoide: 90 mg. Crisis de gota: 120 mg cada 24 h por máximo 8 días.",
+      "adverse" : "HTA, edema, riesgo cardiovascular.",
+      "contraindications" : "HTA no controlada, cardiopatía isquémica, EVC, IC, insuficiencia renal grave.",
+      "group" : "analgesicos",
+      "id" : "etoricoxib",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "coxib",
+        "gota",
+        "artrosis"
+      ],
+      "name" : "Etoricoxib",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 60 mg",
+        "Tabletas 90 mg",
+        "Tabletas 120 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 90 mg",
+        "duration" : "por 5 días",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1–2 g IV cada 4–6 h (meningitis: 2 g cada 4 h).",
+      "adverse" : "Exantema, diarrea.",
+      "contraindications" : "Alergia a penicilinas.",
+      "group" : "antibioticos",
+      "id" : "ampicilina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "penicilina",
+        "listeria",
+        "enterococo"
+      ],
+      "name" : "Ampicilina",
+      "pediatric" : "100–200 mg\/kg\/día IV dividido cada 6 h (meningitis 300–400 mg\/kg\/día).",
+      "pregnancy" : "Se considera segura.",
+      "presentations" : [
+        "Solución inyectable 1 g",
+        "Cápsulas 500 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Depuración < 30: cada 8–12 h.",
+      "sig" : {
+        "dose" : "2 g",
+        "duration" : "según evolución",
+        "frequency" : "cada 6 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "5–7 mg\/kg IV cada 24 h (dosis extendida), ajustada por niveles y función renal.",
+      "adverse" : "Nefrotoxicidad, ototoxicidad (irreversible).",
+      "contraindications" : "Miastenia gravis; precaución con otros nefrotóxicos u ototóxicos.",
+      "group" : "antibioticos",
+      "id" : "gentamicina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "aminoglucosido"
+      ],
+      "name" : "Gentamicina",
+      "pregnancy" : "Evitar salvo necesidad.",
+      "presentations" : [
+        "Solución inyectable 80 mg\/2 mL"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar intervalo según depuración y niveles.",
+      "sig" : {
+        "dose" : "5 mg\/kg",
+        "duration" : "según evolución",
+        "frequency" : "cada 24 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "15 mg\/kg IV cada 24 h, ajustada por niveles y función renal.",
+      "adverse" : "Nefrotoxicidad, ototoxicidad.",
+      "contraindications" : "Miastenia gravis.",
+      "group" : "antibioticos",
+      "id" : "amikacina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "aminoglucosido"
+      ],
+      "name" : "Amikacina",
+      "pregnancy" : "Evitar salvo necesidad.",
+      "presentations" : [
+        "Solución inyectable 500 mg\/2 mL"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar intervalo según depuración.",
+      "sig" : {
+        "dose" : "15 mg\/kg",
+        "duration" : "según evolución",
+        "frequency" : "cada 24 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "15–20 mg\/kg IV cada 8–12 h (carga 20–35 mg\/kg en infección grave), en infusión ≥ 60 min; ajustar por AUC o niveles. C. difficile: 125 mg VO cada 6 h por 10 días.",
+      "adverse" : "Nefrotoxicidad, síndrome de hombre rojo si se infunde rápido.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "antibioticos",
+      "id" : "vancomicina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "sarm",
+        "clostridium"
+      ],
+      "name" : "Vancomicina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Solución inyectable 500 mg",
+        "Solución inyectable 1 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar por función renal y niveles.",
+      "sig" : {
+        "dose" : "15 mg\/kg",
+        "duration" : "según cultivos",
+        "frequency" : "cada 12 horas en 1 hora",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "1 g IV cada 8 h (meningitis 2 g cada 8 h); infusión extendida en pacientes graves.",
+      "adverse" : "Diarrea, convulsiones (raras), C. difficile.",
+      "contraindications" : "Alergia grave a betalactámicos.",
+      "group" : "antibioticos",
+      "id" : "meropenem",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "carbapenemico",
+        "blee"
+      ],
+      "name" : "Meropenem",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Solución inyectable 1 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar si depuración < 50.",
+      "sig" : {
+        "dose" : "1 g",
+        "duration" : "según cultivos",
+        "frequency" : "cada 8 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "1–2 g IV cada 8–12 h (2 g cada 8 h en Pseudomonas o neutropenia febril).",
+      "adverse" : "Diarrea, encefalopatía en insuficiencia renal.",
+      "contraindications" : "Alergia grave a betalactámicos.",
+      "group" : "antibioticos",
+      "id" : "cefepima",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "cefalosporina",
+        "pseudomonas"
+      ],
+      "name" : "Cefepima",
+      "pregnancy" : "Se considera segura.",
+      "presentations" : [
+        "Solución inyectable 1 g",
+        "Solución inyectable 2 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar si depuración < 60 (riesgo de neurotoxicidad).",
+      "sig" : {
+        "dose" : "2 g",
+        "duration" : "según cultivos",
+        "frequency" : "cada 8 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "1–2 g IV cada 6–8 h (meningitis 2 g cada 4–6 h).",
+      "adverse" : "Diarrea, exantema.",
+      "contraindications" : "Alergia grave a betalactámicos.",
+      "group" : "antibioticos",
+      "id" : "cefotaxima",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "cefalosporina",
+        "neonatos"
+      ],
+      "name" : "Cefotaxima",
+      "pediatric" : "Neonatos y niños: 100–200 mg\/kg\/día dividido cada 6–8 h.",
+      "pregnancy" : "Se considera segura.",
+      "presentations" : [
+        "Solución inyectable 1 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Depuración < 20: reducir dosis.",
+      "sig" : {
+        "dose" : "1 g",
+        "duration" : "según evolución",
+        "frequency" : "cada 8 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "600 mg VO o IV cada 12 h.",
+      "adverse" : "Mielosupresión (> 2 semanas), neuropatía, acidosis láctica.",
+      "contraindications" : "Uso con IMAO o ISRS (síndrome serotoninérgico).",
+      "group" : "antibioticos",
+      "id" : "linezolid",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "sarm",
+        "enterococo"
+      ],
+      "name" : "Linezolid",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 600 mg",
+        "Solución inyectable 600 mg\/300 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 600 mg",
+        "duration" : "según evolución",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "250–500 mg cada 6 h.",
+      "adverse" : "Gastrointestinales, QT, interacciones (CYP3A4).",
+      "contraindications" : "Uso con pimozida, estatinas (simvastatina), QT prolongado.",
+      "group" : "antibioticos",
+      "id" : "eritromicina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "macrolido",
+        "tos ferina"
+      ],
+      "name" : "Eritromicina",
+      "pediatric" : "30–50 mg\/kg\/día dividido cada 6–8 h.",
+      "pregnancy" : "Puede usarse (no el estolato).",
+      "presentations" : [
+        "Tabletas 500 mg",
+        "Suspensión 250 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 500 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada 6 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "400 mg cada 24 h.",
+      "adverse" : "Tendinopatía, QT, disglucemia, neuropatía.",
+      "contraindications" : "Embarazo, < 18 años, QT prolongado, miastenia.",
+      "group" : "antibioticos",
+      "id" : "moxifloxacino",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "quinolona",
+        "neumonia"
+      ],
+      "name" : "Moxifloxacino",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 400 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 400 mg",
+        "duration" : "por 5 días",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Tuberculosis: 10 mg\/kg\/día (máximo 600 mg) en ayuno, dentro del esquema del programa (TAES) junto con isoniazida, pirazinamida y etambutol.",
+      "adverse" : "Orina y lágrimas color naranja, hepatotoxicidad, inductor enzimático potente.",
+      "contraindications" : "Hepatopatía grave; múltiples interacciones (anticonceptivos, anticoagulantes, antirretrovirales).",
+      "group" : "antibioticos",
+      "id" : "rifampicina",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "tuberculosis",
+        "tb"
+      ],
+      "name" : "Rifampicina",
+      "notes" : "La tuberculosis se trata a través del programa nacional (NOM-006-SSA2-2013) con tratamiento estrictamente supervisado.",
+      "pregnancy" : "Puede usarse en tuberculosis.",
+      "presentations" : [
+        "Cápsulas 300 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "10 mg\/kg (máximo 600 mg)",
+        "duration" : "según esquema del programa",
+        "frequency" : "cada 24 horas en ayuno",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Tuberculosis: 5 mg\/kg\/día (máximo 300 mg) en el esquema del programa. Agregar piridoxina 25–50 mg\/día.",
+      "adverse" : "Hepatotoxicidad, neuropatía periférica.",
+      "contraindications" : "Hepatitis aguda o previa por isoniazida.",
+      "group" : "antibioticos",
+      "id" : "isoniazida",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "tuberculosis",
+        "tb"
+      ],
+      "name" : "Isoniazida",
+      "pregnancy" : "Puede usarse con piridoxina.",
+      "presentations" : [
+        "Tabletas 100 mg",
+        "Tabletas 300 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "300 mg",
+        "duration" : "según esquema del programa",
+        "frequency" : "cada 24 horas en ayuno",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Tuberculosis: 25 mg\/kg\/día (máximo 2 g) en la fase intensiva de 2 meses.",
+      "adverse" : "Hepatotoxicidad, hiperuricemia, artralgias.",
+      "contraindications" : "Hepatopatía grave, gota aguda.",
+      "group" : "antibioticos",
+      "id" : "pirazinamida",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "tuberculosis",
+        "tb"
+      ],
+      "name" : "Pirazinamida",
+      "pregnancy" : "Usar según el programa.",
+      "presentations" : [
+        "Tabletas 500 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "25 mg\/kg",
+        "duration" : "fase intensiva de 2 meses",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Tuberculosis: 15–20 mg\/kg\/día en la fase intensiva.",
+      "adverse" : "Neuritis óptica (vigilar agudeza y visión de colores).",
+      "contraindications" : "Neuritis óptica previa; niños que no pueden reportar cambios visuales.",
+      "group" : "antibioticos",
+      "id" : "etambutol",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "tuberculosis",
+        "tb"
+      ],
+      "name" : "Etambutol",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas 400 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar intervalo en ERC.",
+      "sig" : {
+        "dose" : "15 a 20 mg\/kg",
+        "duration" : "fase intensiva de 2 meses",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Candidiasis oral: 4–6 mL cada 6 h, enjuagar y deglutir, por 7–14 días.",
+      "adverse" : "Náusea.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "antivirales",
+      "id" : "nistatina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "candidiasis oral",
+        "algodoncillo"
+      ],
+      "name" : "Nistatina",
+      "pediatric" : "Lactantes: 1 mL en cada lado de la boca cada 6 h.",
+      "pregnancy" : "Segura.",
+      "presentations" : [
+        "Suspensión oral 100,000 UI\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "5 mL",
+        "duration" : "por 7 días",
+        "frequency" : "cada 6 horas, enjuagar y deglutir",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "100–200 mg cada 24 h según indicación. Onicomicosis: 200 mg cada 12 h una semana al mes (2 pulsos en manos, 3 en pies).",
+      "adverse" : "Hepatotoxicidad, IC, interacciones.",
+      "contraindications" : "Insuficiencia cardiaca, uso con fármacos que prolongan el QT o sustratos de CYP3A4.",
+      "group" : "antivirales",
+      "id" : "itraconazol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hongos",
+        "onicomicosis"
+      ],
+      "name" : "Itraconazol",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Cápsulas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "2 cápsulas de 100 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada 12 horas con alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Crema: cada 12 h por 2–4 semanas. Gel oral: aplicar cada 6 h.",
+      "adverse" : "Irritación local.",
+      "contraindications" : "Gel oral: lactantes < 6 meses; interacción con warfarina.",
+      "group" : "dermatologia",
+      "id" : "miconazol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "tiña",
+        "candidiasis cutanea"
+      ],
+      "name" : "Miconazol",
+      "pregnancy" : "Uso tópico aceptable.",
+      "presentations" : [
+        "Crema 2 %",
+        "Gel oral 2 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 2 semanas",
+        "frequency" : "cada 12 horas",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Impétigo localizado: cada 8 h por máximo 7 días (evitar uso prolongado por resistencia).",
+      "adverse" : "Irritación local.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "dermatologia",
+      "id" : "acido_fusidico",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "impetigo"
+      ],
+      "name" : "Ácido fusídico",
+      "pregnancy" : "Uso tópico aceptable.",
+      "presentations" : [
+        "Crema 2 %"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "Aplicar capa delgada",
+        "duration" : "por 7 días",
+        "frequency" : "cada 8 horas",
+        "route" : "tópica"
+      }
+    },
+    {
+      "adult" : "Otitis externa: 3–4 gotas en el oído afectado cada 12 h por 7 días.",
+      "adverse" : "Prurito local.",
+      "contraindications" : "Hipersensibilidad a quinolonas.",
+      "group" : "antibioticos",
+      "id" : "ciprofloxacino_otico",
+      "isAntibiotic" : true,
+      "keywords" : [
+        "otitis externa"
+      ],
+      "name" : "Ciprofloxacino ótico",
+      "pregnancy" : "Uso tópico aceptable.",
+      "presentations" : [
+        "Solución ótica 0.3 %",
+        "Solución ótica ciprofloxacino\/hidrocortisona"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "4 gotas en el oído afectado",
+        "duration" : "por 7 días",
+        "frequency" : "cada 12 horas",
+        "route" : "ótica"
+      }
+    },
+    {
+      "adult" : "100–200 mg cada 8 h antes de los alimentos.",
+      "adverse" : "Raros.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "gastro",
+      "id" : "trimebutina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "colon irritable",
+        "espasmo"
+      ],
+      "name" : "Trimebutina",
+      "pregnancy" : "Evitar en el primer trimestre.",
+      "presentations" : [
+        "Tabletas 200 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 200 mg",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 8 horas antes de los alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "50–100 mg cada 8–12 h con agua, sin acostarse después (máximo 300 mg\/día).",
+      "adverse" : "Molestias esofágicas si no se toma con agua.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "gastro",
+      "id" : "pinaverio",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "colon irritable"
+      ],
+      "name" : "Bromuro de pinaverio",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 100 mg",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 12 horas con agua y alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 g cada 6 h (antes de los alimentos y al acostarse). Separar 2 h de otros fármacos.",
+      "adverse" : "Estreñimiento.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "gastro",
+      "id" : "sucralfato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "ulcera",
+        "gastritis"
+      ],
+      "name" : "Sucralfato",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas 1 g",
+        "Suspensión 1 g\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Evitar uso prolongado en ERC (aluminio).",
+      "sig" : {
+        "dose" : "1 tableta de 1 g",
+        "duration" : "por 4 semanas",
+        "frequency" : "cada 6 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1–2 tabletas por la noche.",
+      "adverse" : "Cólico; uso crónico sin vigilancia.",
+      "contraindications" : "Obstrucción intestinal, abdomen agudo.",
+      "group" : "gastro",
+      "id" : "senosidos",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "estreñimiento",
+        "laxante"
+      ],
+      "name" : "Senósidos A y B",
+      "pregnancy" : "Uso corto aceptable.",
+      "presentations" : [
+        "Tabletas 8.6 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "2 tabletas de 8.6 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 sobre en un vaso de agua 1–3 veces al día; tomar abundante líquido.",
+      "adverse" : "Distensión.",
+      "contraindications" : "Obstrucción intestinal, disfagia.",
+      "group" : "gastro",
+      "id" : "psyllium",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "fibra",
+        "estreñimiento",
+        "colon irritable"
+      ],
+      "name" : "Plantago psyllium",
+      "pregnancy" : "Seguro.",
+      "presentations" : [
+        "Polvo, sobres de 3.5 g"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 sobre de 3.5 g en un vaso de agua",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "80–125 mg después de los alimentos y al acostarse.",
+      "adverse" : "Raros.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "gastro",
+      "id" : "simeticona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "gases",
+        "meteorismo"
+      ],
+      "name" : "Simeticona",
+      "pediatric" : "Lactantes: 20 mg después de cada toma (beneficio limitado en cólico).",
+      "pregnancy" : "Segura.",
+      "presentations" : [
+        "Tabletas masticables 80 mg",
+        "Gotas 100 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 80 mg",
+        "duration" : "por 7 días",
+        "frequency" : "después de cada comida",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Colitis ulcerosa leve a moderada: inducción 2.4–4.8 g\/día VO; mantenimiento ≥ 2 g\/día. Proctitis: supositorio 1 g cada noche.",
+      "adverse" : "Cefalea, nefritis intersticial (rara).",
+      "contraindications" : "Alergia a salicilatos, ERC grave.",
+      "group" : "gastro",
+      "id" : "mesalazina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "colitis ulcerosa",
+        "cuci"
+      ],
+      "name" : "Mesalazina",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas de liberación prolongada 500 mg",
+        "Supositorios 1 g"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Vigilar función renal (nefritis intersticial).",
+      "sig" : {
+        "dose" : "2 tabletas de 500 mg",
+        "duration" : "por 8 semanas",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Colangitis biliar primaria: 13–15 mg\/kg\/día. Disolución de litos de colesterol pequeños: 8–10 mg\/kg\/día.",
+      "adverse" : "Diarrea.",
+      "contraindications" : "Colecistitis aguda, obstrucción biliar.",
+      "group" : "gastro",
+      "id" : "udca",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "colestasis",
+        "litiasis biliar"
+      ],
+      "name" : "Ácido ursodesoxicólico",
+      "pregnancy" : "Usar si es necesario (colestasis del embarazo).",
+      "presentations" : [
+        "Cápsulas 250 mg",
+        "Tabletas 500 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 500 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas con alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Angina: 5 mg sublingual; repetir cada 5–10 min hasta 3 dosis. Profilaxis: 10–40 mg cada 8–12 h dejando un intervalo libre de nitratos.",
+      "adverse" : "Cefalea, hipotensión, taquicardia refleja.",
+      "contraindications" : "Uso de sildenafil en 24 h (tadalafil 48 h), hipotensión, infarto de ventrículo derecho, estenosis aórtica grave.",
+      "group" : "cardiovascular",
+      "id" : "isosorbida",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "angina",
+        "nitrato"
+      ],
+      "name" : "Dinitrato de isosorbida",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas sublinguales 5 mg",
+        "Tabletas 10 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta sublingual de 5 mg",
+        "duration" : "",
+        "frequency" : "en caso de dolor de pecho; repetir cada 5 minutos hasta 3 veces",
+        "route" : "sublingual"
+      }
+    },
+    {
+      "adult" : "Infusión IV 5–10 µg\/min, aumentar 5–10 µg\/min cada 3–5 min (SCA con dolor persistente, edema pulmonar, emergencia hipertensiva).",
+      "adverse" : "Cefalea, hipotensión.",
+      "contraindications" : "Inhibidores de fosfodiesterasa recientes, hipotensión, infarto de VD.",
+      "group" : "cardiovascular",
+      "id" : "nitroglicerina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "nitrato",
+        "sca",
+        "edema pulmonar"
+      ],
+      "name" : "Nitroglicerina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Solución inyectable 50 mg\/10 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "5 µg\/min",
+        "duration" : "",
+        "frequency" : "en infusión, titular según PA y síntomas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "FA o TV estable: 150 mg IV en 10 min, luego 1 mg\/min por 6 h y 0.5 mg\/min por 18 h. VO: 200 mg cada 8 h por 1 semana, cada 12 h por 1 semana y luego 200 mg\/día. Paro (FV\/TV sin pulso): 300 mg IV, después 150 mg.",
+      "adverse" : "Tiroides, toxicidad pulmonar y hepática, fotosensibilidad; interacciones (warfarina, digoxina).",
+      "contraindications" : "Bradicardia o bloqueo sin marcapasos, disfunción tiroidea, QT prolongado.",
+      "group" : "cardiovascular",
+      "id" : "amiodarona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antiarritmico",
+        "fibrilacion auricular"
+      ],
+      "name" : "Amiodarona",
+      "pregnancy" : "Evitar salvo arritmia grave.",
+      "presentations" : [
+        "Tabletas 200 mg",
+        "Solución inyectable 150 mg\/3 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 200 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "0.125–0.25 mg cada 24 h (0.0625–0.125 mg en adultos mayores o ERC); niveles 0.5–0.9 ng\/mL en IC.",
+      "adverse" : "Toxicidad: náusea, visión amarilla, arritmias (vigilar potasio).",
+      "contraindications" : "Bloqueo AV, WPW con FA, miocardiopatía hipertrófica obstructiva.",
+      "group" : "cardiovascular",
+      "id" : "digoxina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "fibrilacion auricular",
+        "insuficiencia cardiaca"
+      ],
+      "name" : "Digoxina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 0.25 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Reducir dosis en ERC.",
+      "sig" : {
+        "dose" : "1\/2 tableta de 0.25 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Control de frecuencia: 60 mg cada 8 h o 120–360 mg\/día de liberación prolongada; IV 0.25 mg\/kg en 2 min.",
+      "adverse" : "Bradicardia, edema, estreñimiento.",
+      "contraindications" : "FEVI < 40 %, bloqueo AV, hipotensión, WPW con FA.",
+      "group" : "cardiovascular",
+      "id" : "diltiazem",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "calcioantagonista",
+        "fibrilacion auricular",
+        "angina"
+      ],
+      "name" : "Diltiazem",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 60 mg",
+        "Cápsulas de liberación prolongada 120 y 180 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 60 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "80–120 mg cada 8 h. TSV: 5–10 mg IV en 2 min.",
+      "adverse" : "Estreñimiento, bradicardia, hipotensión.",
+      "contraindications" : "IC con FE reducida, bloqueo AV, WPW con FA, uso con betabloqueador IV.",
+      "group" : "cardiovascular",
+      "id" : "verapamilo",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "calcioantagonista",
+        "taquicardia supraventricular"
+      ],
+      "name" : "Verapamilo",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 80 mg",
+        "Solución inyectable 5 mg\/2 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 80 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1.5 mg cada 24 h por la mañana.",
+      "adverse" : "Hipopotasemia, hiponatremia.",
+      "contraindications" : "Hipopotasemia grave, ERC grave.",
+      "group" : "cardiovascular",
+      "id" : "indapamida",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "diuretico",
+        "hipertension"
+      ],
+      "name" : "Indapamida",
+      "pregnancy" : "Evitar salvo indicación.",
+      "presentations" : [
+        "Tabletas de liberación prolongada 1.5 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 1.5 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas por la mañana",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 mg al acostarse; titular hasta 8 mg (HPB o HTA resistente).",
+      "adverse" : "Hipotensión de primera dosis, mareo.",
+      "contraindications" : "Hipotensión ortostática.",
+      "group" : "cardiovascular",
+      "id" : "doxazosina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "alfabloqueador",
+        "prostata"
+      ],
+      "name" : "Doxazosina",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 2 mg",
+        "Tabletas 4 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1\/2 tableta de 2 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "150–300 mg cada 24 h.",
+      "adverse" : "Hiperpotasemia, mareo.",
+      "contraindications" : "Embarazo, uso con IECA.",
+      "group" : "cardiovascular",
+      "id" : "irbesartan",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "ara ii",
+        "hipertension",
+        "nefropatia diabetica"
+      ],
+      "name" : "Irbesartán",
+      "pregnancy" : "Contraindicado.",
+      "presentations" : [
+        "Tabletas 150 mg",
+        "Tabletas 300 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 150 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "HTA: 8–32 mg cada 24 h. IC: iniciar 4 mg y titular a 32 mg.",
+      "adverse" : "Hiperpotasemia, hipotensión.",
+      "contraindications" : "Embarazo, uso con IECA.",
+      "group" : "cardiovascular",
+      "id" : "candesartan",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "ara ii",
+        "hipertension"
+      ],
+      "name" : "Candesartán",
+      "pregnancy" : "Contraindicado.",
+      "presentations" : [
+        "Tabletas 8 mg",
+        "Tabletas 16 mg",
+        "Tabletas 32 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 16 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "IC con FE reducida: 49\/51 mg cada 12 h (24\/26 mg si TFG < 30, PA baja o sin IECA\/ARA previo); titular a 97\/103 mg cada 12 h. Suspender IECA 36 h antes.",
+      "adverse" : "Hipotensión, hiperpotasemia, deterioro renal.",
+      "contraindications" : "Uso de IECA en las 36 h previas, angioedema, embarazo.",
+      "group" : "cardiovascular",
+      "id" : "sacubitrilo_valsartan",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "arni",
+        "insuficiencia cardiaca"
+      ],
+      "name" : "Sacubitrilo \/ valsartán",
+      "pregnancy" : "Contraindicado.",
+      "presentations" : [
+        "Tabletas 50 mg (24\/26)",
+        "Tabletas 100 mg (49\/51)",
+        "Tabletas 200 mg (97\/103)"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 100 mg",
+        "duration" : "uso continuo; titular",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "SCA: carga 180 mg, después 90 mg cada 12 h con aspirina ≤ 100 mg\/día, por 12 meses en general.",
+      "adverse" : "Sangrado, disnea, bradiarritmias.",
+      "contraindications" : "Hemorragia intracraneal previa, sangrado activo, hepatopatía grave, inhibidores potentes de CYP3A4.",
+      "group" : "cardiovascular",
+      "id" : "ticagrelor",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antiagregante",
+        "sca"
+      ],
+      "name" : "Ticagrelor",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 90 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 90 mg",
+        "duration" : "por 12 meses",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "FA: 150 mg cada 12 h; 110 mg cada 12 h en ≥ 80 años o riesgo alto de sangrado. Antídoto: idarucizumab.",
+      "adverse" : "Sangrado, dispepsia.",
+      "contraindications" : "Válvula mecánica, sangrado activo, embarazo.",
+      "group" : "cardiovascular",
+      "id" : "dabigatran",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anticoagulante",
+        "acod"
+      ],
+      "name" : "Dabigatrán",
+      "pregnancy" : "Contraindicado.",
+      "presentations" : [
+        "Cápsulas 110 mg",
+        "Cápsulas 150 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Contraindicado si depuración < 30 mL\/min.",
+      "sig" : {
+        "dose" : "1 cápsula de 150 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "TVP\/TEP: bolo 80 UI\/kg y 18 UI\/kg\/h, ajustar por TTPa. Profilaxis: 5,000 UI SC cada 8–12 h. Útil en ERC grave.",
+      "adverse" : "Sangrado, trombocitopenia (vigilar plaquetas).",
+      "contraindications" : "Sangrado activo, trombocitopenia inducida por heparina.",
+      "group" : "cardiovascular",
+      "id" : "heparina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anticoagulante",
+        "tromboprofilaxis"
+      ],
+      "name" : "Heparina no fraccionada",
+      "pregnancy" : "Segura (no cruza la placenta).",
+      "presentations" : [
+        "Solución inyectable 5,000 UI\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "5,000 UI",
+        "duration" : "mientras dure el riesgo",
+        "frequency" : "cada 12 horas",
+        "route" : "subcutánea"
+      }
+    },
+    {
+      "adult" : "40–80 mg cada noche (intensidad moderada); menos interacciones (no se metaboliza por CYP3A4).",
+      "adverse" : "Mialgias.",
+      "contraindications" : "Hepatopatía activa, embarazo.",
+      "group" : "cardiovascular",
+      "id" : "pravastatina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "estatina",
+        "colesterol"
+      ],
+      "name" : "Pravastatina",
+      "pregnancy" : "Contraindicada.",
+      "presentations" : [
+        "Tabletas 20 mg",
+        "Tabletas 40 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 40 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "145–160 mg cada 24 h (triglicéridos ≥ 500 mg\/dL).",
+      "adverse" : "Miopatía (mayor con estatinas), elevación de creatinina.",
+      "contraindications" : "Enfermedad de vesícula, hepatopatía, ERC grave.",
+      "group" : "cardiovascular",
+      "id" : "fenofibrato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "fibrato",
+        "trigliceridos"
+      ],
+      "name" : "Fenofibrato",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 145 mg",
+        "Cápsulas 160 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Reducir dosis; evitar si TFG < 30.",
+      "sig" : {
+        "dose" : "1 tableta de 145 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "200 mg cada 8 h o 400 mg de liberación prolongada cada 24 h.",
+      "adverse" : "Miopatía, molestias gastrointestinales.",
+      "contraindications" : "Hepatopatía, ERC grave, enfermedad de vesícula.",
+      "group" : "cardiovascular",
+      "id" : "bezafibrato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "fibrato",
+        "trigliceridos"
+      ],
+      "name" : "Bezafibrato",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 200 mg",
+        "Tabletas de liberación prolongada 400 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar en ERC.",
+      "sig" : {
+        "dose" : "1 tableta de 400 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1–2 mg cada 24 h con el desayuno; máximo 8 mg.",
+      "adverse" : "Hipoglucemia, aumento de peso.",
+      "contraindications" : "Diabetes tipo 1, cetoacidosis, insuficiencia hepática grave.",
+      "group" : "metabolico",
+      "id" : "glimepirida",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "sulfonilurea",
+        "diabetes"
+      ],
+      "name" : "Glimepirida",
+      "pregnancy" : "No es de elección.",
+      "presentations" : [
+        "Tabletas 2 mg",
+        "Tabletas 4 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Precaución en ERC; iniciar con 1 mg.",
+      "sig" : {
+        "dose" : "1 tableta de 2 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas con el desayuno",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "15–30 mg cada 24 h; máximo 45 mg. Útil en esteatohepatitis asociada a disfunción metabólica.",
+      "adverse" : "Edema, aumento de peso, fracturas.",
+      "contraindications" : "Insuficiencia cardiaca, cáncer de vejiga, hepatopatía activa.",
+      "group" : "metabolico",
+      "id" : "pioglitazona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "tiazolidinediona",
+        "diabetes"
+      ],
+      "name" : "Pioglitazona",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 15 mg",
+        "Tabletas 30 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 15 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "0.75 mg SC semanal; aumentar a 1.5 mg (hasta 4.5 mg) según control. Beneficio cardiovascular demostrado.",
+      "adverse" : "Náusea, diarrea; pancreatitis (rara).",
+      "contraindications" : "Antecedente de carcinoma medular de tiroides o MEN2, embarazo.",
+      "group" : "metabolico",
+      "id" : "dulaglutida",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "arglp1",
+        "diabetes"
+      ],
+      "name" : "Dulaglutida",
+      "pregnancy" : "Contraindicada.",
+      "presentations" : [
+        "Pluma 0.75 mg",
+        "Pluma 1.5 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "0.75 mg",
+        "duration" : "uso continuo",
+        "frequency" : "una vez por semana",
+        "route" : "subcutánea"
+      }
+    },
+    {
+      "adult" : "50–150 mg cada 8 h. De elección en el primer trimestre del embarazo y en tormenta tiroidea.",
+      "adverse" : "Hepatotoxicidad grave, agranulocitosis.",
+      "contraindications" : "Hepatopatía.",
+      "group" : "metabolico",
+      "id" : "propiltiouracilo",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hipertiroidismo"
+      ],
+      "name" : "Propiltiouracilo",
+      "pregnancy" : "Preferido en el primer trimestre.",
+      "presentations" : [
+        "Tabletas 50 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "2 tabletas de 50 mg",
+        "duration" : "por 4 semanas y revalorar",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Osteoporosis: 70 mg una vez por semana en ayuno con un vaso de agua; permanecer erguido 30 min. Corregir calcio y vitamina D.",
+      "adverse" : "Esofagitis; raros: osteonecrosis mandibular, fracturas atípicas.",
+      "contraindications" : "Alteraciones esofágicas, no poder mantenerse erguido, hipocalcemia.",
+      "group" : "metabolico",
+      "id" : "alendronato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "osteoporosis",
+        "bifosfonato"
+      ],
+      "name" : "Alendronato",
+      "pregnancy" : "No aplica.",
+      "presentations" : [
+        "Tabletas 70 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "No recomendado si TFG < 35.",
+      "sig" : {
+        "dose" : "1 tableta de 70 mg",
+        "duration" : "uso continuo",
+        "frequency" : "una vez por semana en ayuno con un vaso de agua",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 tableta cada 12–24 h con alimentos (completar 1,000–1,200 mg de calcio al día con la dieta).",
+      "adverse" : "Estreñimiento.",
+      "contraindications" : "Hipercalcemia, litiasis renal por calcio.",
+      "group" : "otros",
+      "id" : "calcio_vitd",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "osteoporosis",
+        "calcio"
+      ],
+      "name" : "Carbonato de calcio + vitamina D3",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Tabletas 600 mg \/ 400 UI"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas con alimentos",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 inhalación cada 12 h (dosis según gravedad del asma; 250\/50 o 500\/50 en EPOC con indicación de corticoide inhalado).",
+      "adverse" : "Candidiasis oral, disfonía; neumonía en EPOC.",
+      "contraindications" : "Crisis aguda (no es de rescate).",
+      "group" : "respiratorio",
+      "id" : "fluticasona_salmeterol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "asma",
+        "epoc",
+        "ics laba"
+      ],
+      "name" : "Fluticasona \/ salmeterol",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Inhalador 100\/50 µg",
+        "Inhalador 250\/50 µg",
+        "Inhalador 500\/50 µg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 inhalación",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas, enjuagar la boca después",
+        "route" : "inhalada"
+      }
+    },
+    {
+      "adult" : "Dosis baja 100–200 µg cada 12 h; media 200–400 µg cada 12 h.",
+      "adverse" : "Candidiasis oral, disfonía.",
+      "contraindications" : "Crisis aguda (no es de rescate).",
+      "group" : "respiratorio",
+      "id" : "beclometasona_inh",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "asma",
+        "corticoide inhalado"
+      ],
+      "name" : "Beclometasona inhalada",
+      "pediatric" : "50–100 µg cada 12 h con espaciador.",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Inhalador 50 µg\/disparo",
+        "Inhalador 250 µg\/disparo"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "2 disparos de 50 µg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas con espaciador",
+        "route" : "inhalada"
+      }
+    },
+    {
+      "adult" : "0.5–1 mg cada 12 h.",
+      "adverse" : "Candidiasis oral.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "respiratorio",
+      "id" : "budesonida_neb",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "asma",
+        "crup"
+      ],
+      "name" : "Budesonida para nebulizar",
+      "pediatric" : "0.25–0.5 mg cada 12 h; crup: 2 mg nebulizado dosis única (alternativa a dexametasona).",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Suspensión para nebulizar 0.25 mg\/mL y 0.5 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "0.5 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada 12 horas",
+        "route" : "inhalada (nebulizada)"
+      }
+    },
+    {
+      "adult" : "5 mg cada 24 h.",
+      "adverse" : "Cefalea, poca sedación.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "alergia",
+      "id" : "desloratadina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "alergia",
+        "rinitis",
+        "urticaria"
+      ],
+      "name" : "Desloratadina",
+      "pediatric" : "1–5 años: 1.25 mg; 6–11 años: 2.5 mg cada 24 h.",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 5 mg",
+        "Jarabe 0.5 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 5 mg",
+        "duration" : "por 14 días",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "120–180 mg cada 24 h; no tomar con jugos de frutas.",
+      "adverse" : "Cefalea, sin sedación.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "alergia",
+      "id" : "fexofenadina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "alergia",
+        "urticaria"
+      ],
+      "name" : "Fexofenadina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 120 mg",
+        "Tabletas 180 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "TFG < 30: 60 mg cada 24 h.",
+      "sig" : {
+        "dose" : "1 tableta de 180 mg",
+        "duration" : "por 14 días",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Prurito: 25 mg cada 6–8 h.",
+      "adverse" : "Sedación, efectos anticolinérgicos, QT.",
+      "contraindications" : "QT prolongado; evitar en adultos mayores.",
+      "group" : "alergia",
+      "id" : "hidroxizina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "prurito",
+        "antihistaminico"
+      ],
+      "name" : "Hidroxizina",
+      "pediatric" : "0.5 mg\/kg cada 6–8 h.",
+      "pregnancy" : "Evitar en el primer trimestre.",
+      "presentations" : [
+        "Tabletas 10 mg",
+        "Tabletas 25 mg",
+        "Jarabe 10 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 25 mg",
+        "duration" : "por 7 días",
+        "frequency" : "cada noche en caso de comezón",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Exacerbación grave de asma o EPOC: 40–60 mg IV cada 24 h. Pulsos (indicaciones específicas): 500–1,000 mg IV cada 24 h por 3 días.",
+      "adverse" : "Hiperglucemia, HTA, insomnio, infecciones.",
+      "contraindications" : "Infección sistémica no tratada.",
+      "group" : "alergia",
+      "id" : "metilprednisolona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "corticoide"
+      ],
+      "name" : "Metilprednisolona",
+      "pregnancy" : "Usar cuando está indicada.",
+      "presentations" : [
+        "Solución inyectable 500 mg",
+        "Tabletas 16 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "40 mg",
+        "duration" : "por 5 días",
+        "frequency" : "cada 24 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Maduración pulmonar fetal (24–34 semanas con riesgo de parto pretérmino): 12 mg IM cada 24 h por 2 dosis.",
+      "adverse" : "Hiperglucemia materna transitoria.",
+      "contraindications" : "Infección sistémica no controlada (corioamnionitis).",
+      "group" : "obstetricia",
+      "id" : "betametasona_im",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "maduracion pulmonar",
+        "parto pretermino"
+      ],
+      "name" : "Betametasona (acetato y fosfato)",
+      "pregnancy" : "Indicada en maduración pulmonar.",
+      "presentations" : [
+        "Suspensión inyectable 6 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "12 mg",
+        "duration" : "2 dosis",
+        "frequency" : "cada 24 horas",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "20 mg cada 24 h; máximo 50 mg.",
+      "adverse" : "Efectos anticolinérgicos, síndrome de discontinuación marcado.",
+      "contraindications" : "Uso con IMAO, tamoxifeno.",
+      "group" : "neuro",
+      "id" : "paroxetina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "isrs",
+        "depresion",
+        "panico"
+      ],
+      "name" : "Paroxetina",
+      "pregnancy" : "Evitar (malformaciones cardiacas).",
+      "presentations" : [
+        "Tabletas 20 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 20 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas por la mañana",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "15 mg por la noche; aumentar hasta 45 mg. Útil con insomnio o poco apetito.",
+      "adverse" : "Sedación, aumento de apetito y peso.",
+      "contraindications" : "Uso con IMAO.",
+      "group" : "neuro",
+      "id" : "mirtazapina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antidepresivo",
+        "insomnio"
+      ],
+      "name" : "Mirtazapina",
+      "pregnancy" : "Usar si el beneficio lo justifica.",
+      "presentations" : [
+        "Tabletas 15 mg",
+        "Tabletas 30 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 15 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Depresión: 150–400 mg\/día. Insomnio (uso fuera de indicación, evidencia limitada): 25–100 mg por la noche.",
+      "adverse" : "Sedación, hipotensión ortostática, priapismo (raro).",
+      "contraindications" : "Uso con IMAO, IAM reciente.",
+      "group" : "neuro",
+      "id" : "trazodona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antidepresivo",
+        "insomnio"
+      ],
+      "name" : "Trazodona",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 50 mg",
+        "Tabletas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 50 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Esquizofrenia o manía: titular hasta 300–750 mg\/día. Depresión bipolar: 300 mg por la noche.",
+      "adverse" : "Sedación, síndrome metabólico, hipotensión.",
+      "contraindications" : "Uso en demencia (mayor mortalidad en adultos mayores), QT prolongado.",
+      "group" : "neuro",
+      "id" : "quetiapina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antipsicotico",
+        "bipolar"
+      ],
+      "name" : "Quetiapina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 25 mg",
+        "Tabletas 100 mg",
+        "Tabletas 300 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 25 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche, titular",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1–2 mg\/día; titular a 4–6 mg\/día.",
+      "adverse" : "Hiperprolactinemia, síntomas extrapiramidales, aumento de peso.",
+      "contraindications" : "Uso en demencia (mayor mortalidad), Parkinson.",
+      "group" : "neuro",
+      "id" : "risperidona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antipsicotico",
+        "esquizofrenia"
+      ],
+      "name" : "Risperidona",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 1 mg",
+        "Tabletas 2 mg",
+        "Solución 1 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 1 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "5–10 mg cada 24 h (máximo 20 mg). Agitación: 10 mg IM.",
+      "adverse" : "Aumento de peso, síndrome metabólico, sedación.",
+      "contraindications" : "Glaucoma de ángulo cerrado, uso en demencia.",
+      "group" : "neuro",
+      "id" : "olanzapina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "antipsicotico",
+        "agitacion"
+      ],
+      "name" : "Olanzapina",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 5 mg",
+        "Tabletas 10 mg",
+        "Solución inyectable 10 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 10 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "300 mg cada 8–12 h, ajustar a niveles de 0.6–1.0 mEq\/L (mantenimiento 0.6–0.8). Vigilar creatinina, TSH y calcio.",
+      "adverse" : "Temblor, poliuria, hipotiroidismo; toxicidad (vómito, ataxia, confusión).",
+      "contraindications" : "ERC, deshidratación, uso de AINE, IECA o tiazidas sin vigilancia estrecha.",
+      "group" : "neuro",
+      "id" : "litio",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "bipolar",
+        "estabilizador"
+      ],
+      "name" : "Carbonato de litio",
+      "pregnancy" : "Evitar en el primer trimestre (anomalía de Ebstein).",
+      "presentations" : [
+        "Tabletas 300 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Evitar en ERC moderada a grave.",
+      "sig" : {
+        "dose" : "1 tableta de 300 mg",
+        "duration" : "uso continuo; según niveles",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Epilepsia: 200 mg cada 12 h; titular a 800–1,200 mg\/día. Neuralgia del trigémino: 100–200 mg cada 12 h.",
+      "adverse" : "Hiponatremia, Stevens-Johnson, inductor enzimático (anticonceptivos).",
+      "contraindications" : "Bloqueo AV, uso con IMAO; buscar HLA-B*1502 en ascendencia asiática.",
+      "group" : "neuro",
+      "id" : "carbamazepina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "epilepsia",
+        "neuralgia del trigemino"
+      ],
+      "name" : "Carbamazepina",
+      "pregnancy" : "Evitar (defectos del tubo neural).",
+      "presentations" : [
+        "Tabletas 200 mg",
+        "Tabletas de liberación prolongada 400 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 200 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Estado epiléptico: 20 mg\/kg IV (máximo 50 mg\/min, con monitorización). Mantenimiento: 300 mg\/día (4–5 mg\/kg); niveles 10–20 µg\/mL.",
+      "adverse" : "Hiperplasia gingival, ataxia, arritmias con infusión rápida, interacciones.",
+      "contraindications" : "Bradicardia sinusal, bloqueo AV.",
+      "group" : "neuro",
+      "id" : "fenitoina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "epilepsia",
+        "estado epileptico"
+      ],
+      "name" : "Fenitoína",
+      "pregnancy" : "Evitar si hay alternativa.",
+      "presentations" : [
+        "Cápsulas 100 mg",
+        "Solución inyectable 250 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 cápsula de 100 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Titulación lenta: 25 mg\/día por 2 semanas, 50 mg\/día por 2 semanas y aumentar 50–100 mg cada 1–2 semanas (mitad con valproato).",
+      "adverse" : "Exantema grave (Stevens-Johnson) si se titula rápido.",
+      "contraindications" : "Exantema previo por lamotrigina.",
+      "group" : "neuro",
+      "id" : "lamotrigina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "epilepsia",
+        "bipolar"
+      ],
+      "name" : "Lamotrigina",
+      "pregnancy" : "De los antiepilépticos de menor riesgo.",
+      "presentations" : [
+        "Tabletas 25 mg",
+        "Tabletas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 25 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas por 2 semanas, después titular",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Profilaxis de migraña: 25 mg por la noche, aumentar 25 mg por semana hasta 50 mg cada 12 h. Epilepsia: hasta 200–400 mg\/día.",
+      "adverse" : "Parestesias, alteraciones cognitivas, pérdida de peso.",
+      "contraindications" : "Embarazo, litiasis renal, glaucoma agudo.",
+      "group" : "neuro",
+      "id" : "topiramato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "migraña",
+        "epilepsia"
+      ],
+      "name" : "Topiramato",
+      "pregnancy" : "Evitar (labio y paladar hendido).",
+      "presentations" : [
+        "Tabletas 25 mg",
+        "Tabletas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "TFG < 70: 50 % de la dosis.",
+      "sig" : {
+        "dose" : "1 tableta de 25 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche, aumentar semanalmente",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Dolor neuropático: 75 mg cada 12 h, aumentar a 150 mg cada 12 h (máximo 600 mg\/día).",
+      "adverse" : "Mareo, somnolencia, edema, potencial de abuso; depresión respiratoria con opioides.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "neuro",
+      "id" : "pregabalina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "dolor neuropatico",
+        "fibromialgia"
+      ],
+      "name" : "Pregabalina",
+      "pregnancy" : "Evitar salvo necesidad.",
+      "presentations" : [
+        "Cápsulas 75 mg",
+        "Cápsulas 150 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar si depuración < 60.",
+      "sig" : {
+        "dose" : "1 cápsula de 75 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Parkinson: 1\/2 tableta de 100\/25 mg cada 8 h, titular según respuesta.",
+      "adverse" : "Náusea, hipotensión, discinesias, alucinaciones.",
+      "contraindications" : "Glaucoma de ángulo cerrado, uso con IMAO no selectivos, melanoma.",
+      "group" : "neuro",
+      "id" : "levodopa_carbidopa",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "parkinson"
+      ],
+      "name" : "Levodopa \/ carbidopa",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 250\/25 mg",
+        "Tabletas 100\/25 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1\/2 tableta de 100\/25 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 8 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Demencia tipo Alzheimer: 5 mg por la noche por 4–6 semanas y después 10 mg.",
+      "adverse" : "Náusea, diarrea, bradicardia, sueños vívidos.",
+      "contraindications" : "Bradicardia, bloqueo AV.",
+      "group" : "neuro",
+      "id" : "donepezilo",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "demencia",
+        "alzheimer"
+      ],
+      "name" : "Donepezilo",
+      "pregnancy" : "No aplica.",
+      "presentations" : [
+        "Tabletas 5 mg",
+        "Tabletas 10 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 5 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada noche",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Distonía aguda por fármacos: 2–5 mg IM o IV lenta. Síntomas extrapiramidales: 2 mg cada 8–12 h VO.",
+      "adverse" : "Boca seca, confusión, retención urinaria.",
+      "contraindications" : "Glaucoma de ángulo cerrado, retención urinaria; evitar en adultos mayores.",
+      "group" : "neuro",
+      "id" : "biperideno",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "distonia",
+        "extrapiramidal"
+      ],
+      "name" : "Biperideno",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Tabletas 2 mg",
+        "Solución inyectable 5 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "5 mg",
+        "duration" : "",
+        "frequency" : "dosis única",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "Prevención de hemorragia posparto (OMS): 10 UI IM o IV lenta tras el nacimiento. Tratamiento: 10 UI IV lenta y 20–40 UI en 1 L a goteo.",
+      "adverse" : "Hipotensión con bolo rápido, intoxicación hídrica.",
+      "contraindications" : "Hipertonía uterina, desproporción cefalopélvica (en inducción).",
+      "group" : "obstetricia",
+      "id" : "oxitocina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hemorragia posparto",
+        "parto"
+      ],
+      "name" : "Oxitocina",
+      "pregnancy" : "Uso obstétrico.",
+      "presentations" : [
+        "Solución inyectable 5 UI\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "10 UI",
+        "duration" : "",
+        "frequency" : "dosis única tras el nacimiento",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "Hemorragia posparto cuando no hay oxitocina (OMS): prevención 600 µg VO; tratamiento 800 µg sublingual.",
+      "adverse" : "Fiebre, escalofríos, diarrea.",
+      "contraindications" : "Uso durante el embarazo fuera de indicaciones obstétricas supervisadas.",
+      "group" : "obstetricia",
+      "id" : "misoprostol",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hemorragia posparto"
+      ],
+      "name" : "Misoprostol",
+      "pregnancy" : "Uso obstétrico supervisado.",
+      "presentations" : [
+        "Tabletas 200 µg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "4 tabletas de 200 µg (800 µg)",
+        "duration" : "",
+        "frequency" : "dosis única",
+        "route" : "sublingual"
+      }
+    },
+    {
+      "adult" : "1.5 mg dosis única lo antes posible, dentro de las 72 h (menor eficacia hasta 120 h).",
+      "adverse" : "Náusea, sangrado irregular.",
+      "contraindications" : "Embarazo confirmado (no es abortivo, pero no tiene indicación).",
+      "group" : "obstetricia",
+      "id" : "levonorgestrel_ae",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anticoncepcion de emergencia",
+        "pastilla del dia siguiente"
+      ],
+      "name" : "Levonorgestrel (anticoncepción de emergencia)",
+      "pregnancy" : "No indicado.",
+      "presentations" : [
+        "Tableta 1.5 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 1.5 mg",
+        "duration" : "",
+        "frequency" : "dosis única lo antes posible",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1 tableta diaria a la misma hora por 21 días y 7 de descanso (o placebo). Revisar criterios de elegibilidad (OMS\/CDC US MEC 2024).",
+      "adverse" : "Náusea, sangrado intermenstrual, riesgo de trombosis.",
+      "contraindications" : "Tabaquismo en ≥ 35 años, migraña con aura, HTA ≥ 160\/100, antecedente de trombosis, < 21 días posparto, cáncer de mama.",
+      "group" : "obstetricia",
+      "id" : "aco_combinado",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anticonceptivo",
+        "planificacion familiar"
+      ],
+      "name" : "Etinilestradiol \/ levonorgestrel",
+      "pregnancy" : "No indicado.",
+      "presentations" : [
+        "Tabletas 30 µg \/ 150 µg (21 + 7)"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas a la misma hora por 21 días y 7 de descanso",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Anticoncepción: 150 mg IM cada 12–13 semanas.",
+      "adverse" : "Sangrado irregular, aumento de peso, pérdida de densidad ósea con uso prolongado.",
+      "contraindications" : "Cáncer de mama, sangrado uterino no diagnosticado.",
+      "group" : "obstetricia",
+      "id" : "medroxiprogesterona",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anticonceptivo",
+        "inyectable"
+      ],
+      "name" : "Medroxiprogesterona de depósito",
+      "pregnancy" : "No indicado.",
+      "presentations" : [
+        "Suspensión inyectable 150 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "150 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 semanas",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "Hiperplasia prostática: 5 mg cada 24 h (efecto en 6–12 meses); reduce el PSA a la mitad.",
+      "adverse" : "Disfunción sexual.",
+      "contraindications" : "Mujeres embarazadas no deben manipular tabletas rotas.",
+      "group" : "otros",
+      "id" : "finasterida",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "prostata",
+        "hiperplasia prostatica"
+      ],
+      "name" : "Finasterida",
+      "pregnancy" : "Contraindicada (manipulación).",
+      "presentations" : [
+        "Tabletas 5 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 5 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 24 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Vejiga hiperactiva: 5 mg cada 8–12 h.",
+      "adverse" : "Boca seca, estreñimiento, confusión.",
+      "contraindications" : "Glaucoma de ángulo cerrado, retención urinaria; evitar en adultos mayores (deterioro cognitivo).",
+      "group" : "otros",
+      "id" : "oxibutinina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "vejiga hiperactiva",
+        "incontinencia"
+      ],
+      "name" : "Oxibutinina",
+      "pregnancy" : "Evitar.",
+      "presentations" : [
+        "Tabletas 5 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 tableta de 5 mg",
+        "duration" : "uso continuo",
+        "frequency" : "cada 12 horas",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "1–2 gotas en cada ojo 3–4 veces al día o según necesidad.",
+      "adverse" : "Visión borrosa transitoria.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "otros",
+      "id" : "lagrimas",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "ojo seco"
+      ],
+      "name" : "Lágrimas artificiales (hipromelosa \/ carboximetilcelulosa)",
+      "pregnancy" : "Seguras.",
+      "presentations" : [
+        "Solución oftálmica"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 gota en cada ojo",
+        "duration" : "uso continuo",
+        "frequency" : "cada 6 horas",
+        "route" : "oftálmica"
+      }
+    },
+    {
+      "adult" : "Bradicardia sintomática: 1 mg IV cada 3–5 min (máximo 3 mg). Intoxicación por organofosforados: 1–3 mg IV, duplicar cada 5 min hasta secar secreciones.",
+      "adverse" : "Taquicardia, retención urinaria, delirium.",
+      "contraindications" : "Ninguna en emergencia.",
+      "group" : "urgencias",
+      "id" : "atropina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "bradicardia",
+        "organofosforados"
+      ],
+      "name" : "Atropina",
+      "pregnancy" : "Usar en emergencia.",
+      "presentations" : [
+        "Solución inyectable 1 mg\/mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 mg",
+        "duration" : "",
+        "frequency" : "cada 3 a 5 minutos (máximo 3 mg)",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Taquicardia supraventricular estable: 6 mg IV en bolo rápido seguido de 20 mL de solución; si no revierte, 12 mg (puede repetirse una vez).",
+      "adverse" : "Rubor, opresión torácica, asistolia transitoria.",
+      "contraindications" : "Bloqueo AV de 2.º–3.er grado, asma grave, FA preexcitada.",
+      "group" : "urgencias",
+      "id" : "adenosina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "taquicardia supraventricular"
+      ],
+      "name" : "Adenosina",
+      "pregnancy" : "Puede usarse.",
+      "presentations" : [
+        "Solución inyectable 6 mg\/2 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "6 mg",
+        "duration" : "",
+        "frequency" : "en bolo rápido con lavado de 20 mL",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "1 g\/kg VO (máximo 50 g), idealmente en la primera hora tras la ingesta y con vía aérea protegida.",
+      "adverse" : "Vómito, broncoaspiración.",
+      "contraindications" : "Vía aérea no protegida, cáusticos, hidrocarburos, metales, alcoholes, íleo.",
+      "group" : "urgencias",
+      "id" : "carbon_activado",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "intoxicacion"
+      ],
+      "name" : "Carbón activado",
+      "pregnancy" : "Usar si está indicado.",
+      "presentations" : [
+        "Polvo para suspensión 50 g"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 g\/kg (máximo 50 g)",
+        "duration" : "",
+        "frequency" : "dosis única",
+        "route" : "oral"
+      }
+    },
+    {
+      "adult" : "Alcoholismo o desnutrición: 100 mg IV\/IM antes de administrar glucosa. Encefalopatía de Wernicke: 200–500 mg IV cada 8 h.",
+      "adverse" : "Reacciones alérgicas (raras).",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "urgencias",
+      "id" : "tiamina",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "wernicke",
+        "alcoholismo"
+      ],
+      "name" : "Tiamina (vitamina B1)",
+      "pregnancy" : "Segura.",
+      "presentations" : [
+        "Solución inyectable 100 mg\/mL",
+        "Tabletas 100 mg"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "100 mg",
+        "duration" : "por 3 días",
+        "frequency" : "cada 24 horas",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Hiperpotasemia con cambios en el ECG: 10–30 mL IV en 5–10 min (repetir según ECG). Hipocalcemia sintomática: 10–20 mL IV lento. Antídoto del sulfato de magnesio: 10 mL IV.",
+      "adverse" : "Bradicardia con infusión rápida, flebitis.",
+      "contraindications" : "Intoxicación digitálica (precaución).",
+      "group" : "urgencias",
+      "id" : "gluconato_calcio",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hiperpotasemia",
+        "hipocalcemia"
+      ],
+      "name" : "Gluconato de calcio al 10 %",
+      "pregnancy" : "Usar en emergencia.",
+      "presentations" : [
+        "Solución inyectable 1 g\/10 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "10 mL (1 g)",
+        "duration" : "",
+        "frequency" : "en 10 minutos",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "Uso selectivo: hiperpotasemia con acidosis, intoxicación por antidepresivos tricíclicos o acidosis metabólica grave: 1–2 mEq\/kg IV.",
+      "adverse" : "Hipernatremia, alcalosis, sobrecarga de volumen.",
+      "contraindications" : "Alcalosis, hipocalcemia no corregida.",
+      "group" : "urgencias",
+      "id" : "bicarbonato",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "acidosis",
+        "intoxicacion"
+      ],
+      "name" : "Bicarbonato de sodio al 8.4 %",
+      "pregnancy" : "Usar si está indicado.",
+      "presentations" : [
+        "Solución inyectable 1 mEq\/mL (50 mL)"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 mEq\/kg",
+        "duration" : "",
+        "frequency" : "en bolo lento",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "200 mg en 100 mL de solución salina en 30 min, hasta 3 veces por semana hasta completar el déficit calculado (Ganzoni).",
+      "adverse" : "Hipotensión, reacciones de hipersensibilidad (observar 30 min).",
+      "contraindications" : "Anemia no ferropénica, sobrecarga de hierro.",
+      "group" : "otros",
+      "id" : "hierro_iv",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "anemia",
+        "hierro"
+      ],
+      "name" : "Hierro sacarosa",
+      "pregnancy" : "Puede usarse en segundo y tercer trimestre.",
+      "presentations" : [
+        "Solución inyectable 100 mg\/5 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "200 mg",
+        "duration" : "hasta completar el déficit",
+        "frequency" : "en 30 minutos, 3 veces por semana",
+        "route" : "intravenosa"
+      }
+    },
+    {
+      "adult" : "INR > 10 sin sangrado: 2.5–5 mg VO. Sangrado mayor por warfarina: 5–10 mg IV lento junto con concentrado de complejo protrombínico.",
+      "adverse" : "Anafilaxia con aplicación IV rápida.",
+      "contraindications" : "Hipersensibilidad.",
+      "group" : "otros",
+      "id" : "vitamina_k",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "warfarina",
+        "recien nacido",
+        "sangrado"
+      ],
+      "name" : "Fitomenadiona (vitamina K)",
+      "pediatric" : "Recién nacido: 1 mg IM dosis única (profilaxis de enfermedad hemorrágica).",
+      "pregnancy" : "Usar si es necesario.",
+      "presentations" : [
+        "Solución inyectable 10 mg\/mL",
+        "Solución inyectable 2 mg\/0.2 mL"
+      ],
+      "references" : [
+
+      ],
+      "sig" : {
+        "dose" : "1 mg",
+        "duration" : "",
+        "frequency" : "dosis única al nacimiento",
+        "route" : "intramuscular"
+      }
+    },
+    {
+      "adult" : "Trauma con sangrado (CRASH-2): 1 g IV en 10 min dentro de 3 h y 1 g en 8 h. Hemorragia posparto (WOMAN): 1 g IV en 10 min dentro de 3 h; repetir 1 g si persiste a los 30 min. Sangrado menstrual abundante: 1 g VO cada 8 h por 5 días.",
+      "adverse" : "Náusea; trombosis (rara).",
+      "contraindications" : "Trombosis activa, antecedente de convulsiones (dosis altas).",
+      "group" : "urgencias",
+      "id" : "acido_tranexamico",
+      "isAntibiotic" : false,
+      "keywords" : [
+        "hemorragia",
+        "antifibrinolitico",
+        "hemorragia posparto"
+      ],
+      "name" : "Ácido tranexámico",
+      "pregnancy" : "Indicado en hemorragia posparto.",
+      "presentations" : [
+        "Solución inyectable 1 g\/10 mL",
+        "Tabletas 500 mg"
+      ],
+      "references" : [
+
+      ],
+      "renal" : "Ajustar en ERC.",
+      "sig" : {
+        "dose" : "1 g",
+        "duration" : "",
+        "frequency" : "en 10 minutos",
+        "route" : "intravenosa"
+      }
     }
   ],
   "format" : "consultamed-content",
